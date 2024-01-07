@@ -47,9 +47,9 @@ tMPV
 tBPT
 0xB3f99595e1B35f93Ca070afc90287CDaC86d631e
 
-# NFT Staking
+### NFT Staking
 
-# Dual Reward Staking
+### Dual Reward Staking
 Dual Reward Staking MPT to MPV
 0xd24E655dDc7d477F5d78fD0e8D1c2399666e4c0E
 
