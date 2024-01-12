@@ -39,6 +39,8 @@
 ### NFT Staking
 
 ### Dual Reward Staking
-> Dual Reward Staking MPT to MPV 0xd24E655dDc7d477F5d78fD0e8D1c2399666e4c0E
-
-> Dual Reward Staking MPT to MLGE
+> DualRewardStaking 1.0 tMPT to tMPV 0xd24E655dDc7d477F5d78fD0e8D1c2399666e4c0E
+> DualRewardStaking 1.0 tMPT to tMLGE 0xc2b23276E65238356352119B29FeF8bD70eC661C
+> DualRewardStaking 1.2 tMPT to tMPV 0x65E7aB5DB22eB0278C220703D355b43339EDa97E
+> DualRewardStaking 1.2 tMPT to tMLGE 0xfB06D88f4Af50902cac83b5cf8C81d9B4B67F8d7
+ 
