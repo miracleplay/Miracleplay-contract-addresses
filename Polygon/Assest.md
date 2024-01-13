@@ -1,8 +1,12 @@
 # Mainnet
 ### Token
+> ~~MPT[Locked] 0x2237C1299473b80C5F482E4974D8A0eCc318f775~~
+
 > MPT 0x87d6F8eDECcbCcA766D2880D19b2C3777D322C22
 
 > MPN 0x3Df3eaeEfc30d77891aaBDCE18Bd15cc59B0D466
+
+> ~~MLGE[Locked] 0xBbf0bB5F72D1c30634Ae9263853B54a3B6426449~~
 
 > MLGE 0x79940436c6a70bad4eCb6A41F4EBFd4735B767aF
 
@@ -10,17 +14,36 @@
 
 > BPT 0x89147D1Af1755f83806f6D821FcbBfa21F13d405
 
-### NFT Staking
-> MPN Staking S1 0xe86a845489f19b5DD8aC2e5d29e593FB1e2b7f9f
+### ERC-1155 NFT Staking
+> ~~MPN Staking S1 0xe86a845489f19b5DD8aC2e5d29e593FB1e2b7f9f~~
 
-> MPN Staking S2 0x21Ba24B0F497Ea65654fD8827636B1F522727994
+> Miracleplay NFT Staking Section1 v2.0 [Not Deployed]
+> * Pool start timestamp :
+> * Maximum NFT amount : 10,000 MPN
+> * Maximum staking amount : 1,000,000,000 MPT
 
-> MPN Staking S3 0xa847A4b20Fd30B9407e2289Ae1262a68b0a59c69
+> ~~MPN Staking S2 0x21Ba24B0F497Ea65654fD8827636B1F522727994~~
 
-### Dual Reward Staking
-> Dual Reward Staking MPT to MPV
+> Miracleplay NFT Staking Section2 v2.0 [Not Deployed]
+> * Pool start timestamp :
+> * Maximum NFT amount : 10,000 MPN
+> * Maximum staking amount : 1,000,000,000 MPT
 
-> Dual Reward Staking MPT to MLGE
+> ~~MPN Staking S3 0xa847A4b20Fd30B9407e2289Ae1262a68b0a59c69~~
+
+> Miracleplay NFT Staking Section3 v2.0 [Not Deployed]
+> * Pool start timestamp :
+> * Maximum NFT amount : 10,000 MPN
+> * Maximum staking amount : 1,000,000,000 MPT
+
+### Dual Reward ERC-20 Token Staking
+> Dual Reward Staking v1.2 MPT to MPV [Not Deployed]
+> * MPT APR 0.1%
+> * MPV APR 10.0%
+
+> Dual Reward Staking v1.2 MPT to MLGE [Not Deployed]
+> * MPT APR 0.1%
+> * MLGE APR 100.0%
 
 # Testnet
 ### Token
@@ -37,10 +60,12 @@
 > tmUSDT 0x4D7D217f85Ca8b8884D4fD79DA7c5441d96FFddC
 
 ### NFT Staking
+> Miracleplay NFT Staking Section1 v2.0 0xCf79ACa638415d72cd954DDE75b2c57b82E0bF6F
 
+> Miracleplay NFT Staking Section2 v2.0 0x8914f33554a96b984029A88a8F521b4753faaD40
+> 
 ### Dual Reward Staking
-> DualRewardStaking 1.0 tMPT to tMPV 0xd24E655dDc7d477F5d78fD0e8D1c2399666e4c0E
-> DualRewardStaking 1.0 tMPT to tMLGE 0xc2b23276E65238356352119B29FeF8bD70eC661C
-> DualRewardStaking 1.2 tMPT to tMPV 0x65E7aB5DB22eB0278C220703D355b43339EDa97E
-> DualRewardStaking 1.2 tMPT to tMLGE 0xfB06D88f4Af50902cac83b5cf8C81d9B4B67F8d7
+> DualRewardStaking v1.2 tMPT to tMPV 0x65E7aB5DB22eB0278C220703D355b43339EDa97E
+
+> DualRewardStaking v1.2 tMPT to tMLGE 0xfB06D88f4Af50902cac83b5cf8C81d9B4B67F8d7
  
