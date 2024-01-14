@@ -19,7 +19,7 @@
 > * Maximum staking amount : 1,000,000,000 MPT
 > * DAO fee : 5 %
 > #### Miracleplay NFT Staking Section2 v2.0
-> * Contract address : `NotDeployed`
+> * Contract address : `0x277e698099C2480A454e2478749F35c30fA28E92`
 > * Pool start timestamp :
 > * Maximum NFT amount : 10,000 MPN
 > * Maximum staking amount : 1,000,000,000 MPT
@@ -32,13 +32,13 @@
 > * DAO fee : 30 %
 
 > ### Dual Reward ERC-20 Token Staking
-> #### Dual Reward Staking v1.2 MPT to MPV 
-> * Contract address : `NotDeployed`
-> * MPT APR 0.1%
+> #### Dual Reward Staking v1.3 MPT to MPV 
+> * Contract address : `0x9c5DBe997c075671dD3d59983B462E6b59Cdf031`
+> * MPT APR 1.5%
 > * MPV APR 4.0%
-> #### Dual Reward Staking v1.2 MPT to MLGE
-> * Contract address : `NotDeployed`
-> * MPT APR 0.1%
+> #### Dual Reward Staking v1.3 MPT to MLGE
+> * Contract address : `0x7C623DFae066F37C29F62d95aae466ea85338caE`
+> * MPT APR 0.0%
 > * MLGE APR 100.0%
 
 # Testnet
@@ -55,6 +55,8 @@
 > * Miracleplay NFT Staking Section2 v2.0 0x8914f33554a96b984029A88a8F521b4753faaD40
 > 
 > ### Dual Reward ERC-20 Staking
-> * DualRewardStaking v1.2 tMPT to tMPV 0x65E7aB5DB22eB0278C220703D355b43339EDa97E
-> * DualRewardStaking v1.2 tMPT to tMLGE 0xfB06D88f4Af50902cac83b5cf8C81d9B4B67F8d7
+> * DualRewardStaking v1.2 tMPT to tMPV ~~0x65E7aB5DB22eB0278C220703D355b43339EDa97E~~
+> * DualRewardStaking v1.2 tMPT to tMLGE ~~0xfB06D88f4Af50902cac83b5cf8C81d9B4B67F8d7~~
+> * DualRewardStaking v1.3 tMPT to tMPV 0xbB9D8177d763c622f6E4644351391EEAD1c8D539
+> * DualRewardStaking v1.3 tMPT to tMLGE 0xc5437804b0691a29f6463DD4af4E0526D7Bbb644
  
