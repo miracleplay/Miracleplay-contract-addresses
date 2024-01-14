@@ -1,4 +1,27 @@
 # Miracleplay-contract-addresses
+> ## Polygon
+> ### Asset and Staking
+> [Polygon assets Link](Polygon/Asset.md)
+> ### Token and Staking Status
+> [Token and Staking Status Link](Polygon/status.html)
+> ### Tournament
+> [Example tournaments Link](Polygon/Tournament.md)
+
+
+> ## Avalanche
+> ### Asset and Staking
+> [Avalanche assets Link](Avalanche/Asset.md)
+> ### Tournament
+> [Example tournaments Link](Avalanche/Tournament.md)
+
+> ## Common
+> ### Address
+> [Common addresses Link](Common/Address.md)
+> ### Royalty
+> [Common royalty Link](Common/Royalty.md)
+
+
+# Update history
 
 > ### Tournament
 >* 0.7.2 - Mint MPV and BPT
