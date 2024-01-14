@@ -13,7 +13,7 @@
 > * ~~MPN Staking S2 `0x21Ba24B0F497Ea65654fD8827636B1F522727994`~~
 > * ~~MPN Staking S3 `0xa847A4b20Fd30B9407e2289Ae1262a68b0a59c69`~~
 > #### Miracleplay NFT Staking Section1 v2.0 
-> * Contract address : `NotDeployed`
+> * Contract address : `0xf15D569b40785138Ff1139808effBC3a257C63c0`
 > * Pool start timestamp :
 > * Maximum NFT amount : 10,000 MPN
 > * Maximum staking amount : 1,000,000,000 MPT
