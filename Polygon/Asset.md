@@ -32,12 +32,12 @@
 > * DAO fee : 30 %
 
 > ### Dual Reward ERC-20 Token Staking
-> #### Dual Reward Staking v1.3 MPT to MPV 
-> * Contract address : `0xC0EA868Bb4D31c70B3B99aCCEd218C8F9A869aCE`
+> #### Dual Reward Staking v1.3 MPT to MPV ~~`0xC0EA868Bb4D31c70B3B99aCCEd218C8F9A869aCE`~~
+> #### Dual Reward Staking v1.3.1 MPT to MPV `0x8B6Fac8C54CB6Fd101b54A9662E0666077e099d0`
 > * MPT APR 1.5%
 > * MPV APR 4.0%
-> #### Dual Reward Staking v1.3 MPT to MLGE
-> * Contract address : `0xDCBF6d178C3769073D50e1D8312f0A19977546e8`
+> #### Dual Reward Staking v1.3 MPT to MLGE ~~`0xDCBF6d178C3769073D50e1D8312f0A19977546e8`~~
+> #### Dual Reward Staking v1.3.1 MPT to MLGE `0x7e8539420790Aa1F527E8eEf094e0C107252c904`
 > * MPT APR 0.0%
 > * MLGE APR 100.0%
 
