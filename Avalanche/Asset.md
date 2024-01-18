@@ -21,7 +21,7 @@
 > * DAO fee : 15 %
 > #### Miracleplay NFT Staking Section3 v2.0
 > * Contract address : `0x291965573621f8254D849987E8b30dC584d49e3E`
-> * Pool start timestamp : 1705561200 `2024 January 18th Thursday AM 7:00:00 UTC`
+> * Pool start timestamp : 1706162400 `2024 January 25일 Thursday AM 6:00:00 UTC`
 > * Maximum NFT amount : 10,000 MPN
 > * Maximum staking amount : 1,000,000,000 MPT
 > * DAO fee : 30 %
