@@ -39,4 +39,4 @@
 > Staking the MPT to receive a reward. The MPT's reward is transferred, and the second is minted.
 > Rewards are calculated according to the APR.
 > * 1.0.0 - Release Dual Reward Staking.
-> * 1.2.0 - Reward APR can serve up to two decimal places..
+> * 1.2.0 - Reward APR can serve up to two decimal places.

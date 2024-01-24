@@ -25,3 +25,11 @@
 > * Maximum NFT amount : 10,000 MPN
 > * Maximum staking amount : 1,000,000,000 MPT
 > * DAO fee : 30 %
+
+> ### Dual Reward ERC-20 Token Staking
+> #### Dual Reward Staking v1.3.1 MPT to MPV `0x6BA3eEfE91df2f108A9578095C2a3cB6AA6622BA`
+> * MPT APR 1.5%
+> * MPV APR 4.0%
+> #### Dual Reward Staking v1.3.1 MPT to MLGE `0x19337585d1DEFe8De9A955b0090aeaC5A498E3B6`
+> * MPT APR 0.0%
+> * MLGE APR 100.0%

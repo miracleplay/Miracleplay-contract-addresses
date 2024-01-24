@@ -68,7 +68,7 @@
 # Testnet
 > ### Test Game
 > Tournament
->> * 0.8.0 Fundable
+>> * 0.8.0 `0xDCD2EEFABEc04fB9354BF7E9F25FC768d0BD7a0f` 
 >>
 > Escrow
->> * 0.8.0 Fundable
+>> * 0.8.0 `0x40A48Dd8A392BD8729EF6Ce8F2002B1faC0351E3`
