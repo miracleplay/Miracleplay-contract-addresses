@@ -68,7 +68,7 @@
 # Testnet
 > ### Test Game
 > Tournament
->> * 0.8.0 `0x4Ee3EC9f515f0195D70daCA5A25a6E7466D47cf0` 
+>> * 0.8.0 `0x039b07d11592CA0faC483A46C48b396F8876f23C` 
 >>
 > Escrow
->> * 0.8.0 `0xFc9d92e1C62D6d4068ec2d565C7393209aF47321`
+>> * 0.8.0 `0x8e21C17D417ecffb2Efe6ae446cac4A8aE8Cfbb7`
