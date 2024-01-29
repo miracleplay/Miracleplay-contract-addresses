@@ -1,0 +1,74 @@
+{
+  "mainnet": {
+    "TapTap": {
+      "Tournament": {
+        "0.7.1": "0xFF4c33d509a8c0fbf314BbDf258060b149711099",
+        "0.8.0": "Fundable"
+      },
+      "Escrow": {
+        "0.7.1": "0x366D735512B8d2f5114A17aee59dde31Bf59e303",
+        "0.8.0": "Fundable"
+      }
+    },
+    "Miracle Golf": {
+      "Tournament": {
+        "0.7.1": "0x496Ab8fdCe4C01D7A80578D32A055c0B294C7A27",
+        "0.8.0": "Fundable"
+      },
+      "Escrow": {
+        "0.7.1": "0x5C80816D0E94b673Ac4dDF6dF9893BC937BfCAb8",
+        "0.8.0": "Fundable"
+      }
+    },
+    "Battle Tank": {
+      "Tournament": {
+        "0.7.1": "0x33e8015dE7aEfA361b3aDa1Ac4C8FFE27fc3C08D",
+        "0.8.0": "Fundable"
+      },
+      "Escrow": {
+        "0.7.1": "0x9dAe3e72f49882c862A7E58c71e4d28C7baf1Bb1",
+        "0.8.0": "Fundable"
+      }
+    },
+    "Miracle Bingo": {
+      "Tournament": {
+        "0.7.1": "0xf38351bdc63469f97bc50cE05d0e5494654F6bB5",
+        "0.8.0": "Fundable"
+      },
+      "Escrow": {
+        "0.7.1": "0xA2e0D2A4104AD60674860aB97Fbe31920ef50b84",
+        "0.8.0": "Fundable"
+      }
+    },
+    "Miracle Slide": {
+      "Tournament": {
+        "0.7.1": "0xf42d5851D073E6ABe990DC001194f15b61c08E62",
+        "0.8.0": "Fundable"
+      },
+      "Escrow": {
+        "0.7.1": "0x33039a855E21B074477E38D03e119bEfbB8bbd69",
+        "0.8.0": "Fundable"
+      }
+    },
+    "Bubble Shooter": {
+      "Tournament": {
+        "0.7.1": "0x52464ea3120Eb3C5284161aAf9c3aEEB68a05DF9",
+        "0.8.0": "Fundable"
+      },
+      "Escrow": {
+        "0.7.1": "0x06baa6C3c8921763a8E57B6c80593A4B7349DCbd",
+        "0.8.0": "Fundable"
+      }
+    }
+  },
+  "testnet": {
+    "Test Game": {
+      "Tournament": {
+        "0.8.0": "0x039b07d11592CA0faC483A46C48b396F8876f23C"
+      },
+      "Escrow": {
+        "0.8.0": "0x8e21C17D417ecffb2Efe6ae446cac4A8aE8Cfbb7"
+      }
+    }
+  }
+}
