@@ -5,7 +5,7 @@
 > ### Token and Staking Status
 > [Token and Staking Status Link](Polygon/status.html)
 > ### Tournament
-> [Tournaments Link](Polygon/Tournament.md)
+> [Tournaments Link](Polygon/Tournament.json)
 
 
 > ## Avalanche
