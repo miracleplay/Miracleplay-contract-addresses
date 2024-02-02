@@ -49,20 +49,6 @@
   },
   {
     "type": "event",
-    "name": "CreateTournament",
-    "inputs": [
-      {
-        "type": "uint256",
-        "name": "tournamentId",
-        "indexed": false,
-        "internalType": "uint256"
-      }
-    ],
-    "outputs": [],
-    "anonymous": false
-  },
-  {
-    "type": "event",
     "name": "NewPersonalRecord",
     "inputs": [
       {
@@ -82,26 +68,6 @@
         "name": "score",
         "indexed": false,
         "internalType": "uint256"
-      }
-    ],
-    "outputs": [],
-    "anonymous": false
-  },
-  {
-    "type": "event",
-    "name": "Registered",
-    "inputs": [
-      {
-        "type": "uint256",
-        "name": "tournamentId",
-        "indexed": false,
-        "internalType": "uint256"
-      },
-      {
-        "type": "address",
-        "name": "account",
-        "indexed": false,
-        "internalType": "address"
       }
     ],
     "outputs": [],
@@ -218,34 +184,6 @@
       {
         "type": "uint256",
         "name": "playersCount",
-        "indexed": false,
-        "internalType": "uint256"
-      }
-    ],
-    "outputs": [],
-    "anonymous": false
-  },
-  {
-    "type": "event",
-    "name": "TournamentCanceled",
-    "inputs": [
-      {
-        "type": "uint256",
-        "name": "tournamentId",
-        "indexed": false,
-        "internalType": "uint256"
-      }
-    ],
-    "outputs": [],
-    "anonymous": false
-  },
-  {
-    "type": "event",
-    "name": "TournamentEnded",
-    "inputs": [
-      {
-        "type": "uint256",
-        "name": "tournamentId",
         "indexed": false,
         "internalType": "uint256"
       }

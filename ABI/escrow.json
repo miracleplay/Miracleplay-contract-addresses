@@ -49,6 +49,60 @@
   },
   {
     "type": "event",
+    "name": "Fund",
+    "inputs": [
+      {
+        "type": "uint256",
+        "name": "tournamentId",
+        "indexed": false,
+        "internalType": "uint256"
+      },
+      {
+        "type": "address",
+        "name": "fundingUser",
+        "indexed": false,
+        "internalType": "address"
+      },
+      {
+        "type": "uint256",
+        "name": "fundingAmount",
+        "indexed": false,
+        "internalType": "uint256"
+      }
+    ],
+    "outputs": [],
+    "anonymous": false
+  },
+  {
+    "type": "event",
+    "name": "FundCanceled",
+    "inputs": [
+      {
+        "type": "uint256",
+        "name": "tournamentId",
+        "indexed": false,
+        "internalType": "uint256"
+      }
+    ],
+    "outputs": [],
+    "anonymous": false
+  },
+  {
+    "type": "event",
+    "name": "FundEnded",
+    "inputs": [
+      {
+        "type": "uint256",
+        "name": "tournamentId",
+        "indexed": false,
+        "internalType": "uint256"
+      }
+    ],
+    "outputs": [],
+    "anonymous": false
+  },
+  {
+    "type": "event",
     "name": "RoleAdminChanged",
     "inputs": [
       {
@@ -162,32 +216,12 @@
         "name": "tournamentId",
         "indexed": false,
         "internalType": "uint256"
-      }
-    ],
-    "outputs": [],
-    "anonymous": false
-  },
-  {
-    "type": "event",
-    "name": "TournamentFunded",
-    "inputs": [
-      {
-        "type": "uint256",
-        "name": "tournamentId",
-        "indexed": false,
-        "internalType": "uint256"
       },
       {
         "type": "address",
-        "name": "fundingUser",
+        "name": "organizer",
         "indexed": false,
         "internalType": "address"
-      },
-      {
-        "type": "uint256",
-        "name": "fundingAmount",
-        "indexed": false,
-        "internalType": "uint256"
       }
     ],
     "outputs": [],
