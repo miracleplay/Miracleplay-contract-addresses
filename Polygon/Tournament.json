@@ -3,71 +3,71 @@
     "TapTap": {
       "Tournament": {
         "0.7.1": "0xFF4c33d509a8c0fbf314BbDf258060b149711099",
-        "0.8.0": "Fundable"
+        "0.8.0": "0x751b22BF2D651aEB661EC101326538bE3Bd98305"
       },
       "Escrow": {
         "0.7.1": "0x366D735512B8d2f5114A17aee59dde31Bf59e303",
-        "0.8.0": "Fundable"
+        "0.8.0": "0x6176393cb15f49bc416f76C2E87CF016F92602d7"
       }
     },
-    "Miracle Golf": {
+    "MiracleGolf": {
       "Tournament": {
         "0.7.1": "0x496Ab8fdCe4C01D7A80578D32A055c0B294C7A27",
-        "0.8.0": "Fundable"
+        "0.8.0": "0xBe2a75a52B5ff8F7e01Dc33774a2f3Dd1Ae3ba9b"
       },
       "Escrow": {
         "0.7.1": "0x5C80816D0E94b673Ac4dDF6dF9893BC937BfCAb8",
-        "0.8.0": "Fundable"
+        "0.8.0": "0x2537a2D2D0615Fc8899b4B936651E4E7B2A2a744"
       }
     },
-    "Battle Tank": {
+    "BattleTank": {
       "Tournament": {
         "0.7.1": "0x33e8015dE7aEfA361b3aDa1Ac4C8FFE27fc3C08D",
-        "0.8.0": "Fundable"
+        "0.8.0": "0x39C869d8050A17BfBCFcA20142a0Eb6C32ae7357"
       },
       "Escrow": {
         "0.7.1": "0x9dAe3e72f49882c862A7E58c71e4d28C7baf1Bb1",
-        "0.8.0": "Fundable"
+        "0.8.0": "0xC2Ad04f3DBC681e28673E8296f75852C9C5B7725"
       }
     },
-    "Miracle Bingo": {
+    "MiracleBingo": {
       "Tournament": {
         "0.7.1": "0xf38351bdc63469f97bc50cE05d0e5494654F6bB5",
-        "0.8.0": "Fundable"
+        "0.8.0": "0x9b5C51A45fB2eDF89E892e63044f82b96F98699b"
       },
       "Escrow": {
         "0.7.1": "0xA2e0D2A4104AD60674860aB97Fbe31920ef50b84",
-        "0.8.0": "Fundable"
+        "0.8.0": "0xBA3b77bd010A351A8A5024404e48E2Ddd3235dc6"
       }
     },
-    "Miracle Slide": {
+    "MiracleSlide": {
       "Tournament": {
         "0.7.1": "0xf42d5851D073E6ABe990DC001194f15b61c08E62",
-        "0.8.0": "Fundable"
+        "0.8.0": "0x909a6c744f0d0C00f8e34fA77c4A8B5198446ed6"
       },
       "Escrow": {
         "0.7.1": "0x33039a855E21B074477E38D03e119bEfbB8bbd69",
-        "0.8.0": "Fundable"
+        "0.8.0": "0xF7533c5549C335f28ec20Da58F6488acf63F2b60"
       }
     },
-    "Bubble Shooter": {
+    "BubbleShooter": {
       "Tournament": {
         "0.7.1": "0x52464ea3120Eb3C5284161aAf9c3aEEB68a05DF9",
-        "0.8.0": "Fundable"
+        "0.8.0": "0x61b78615D0Ba62126F7cC062eB709c5F1dC3B930"
       },
       "Escrow": {
         "0.7.1": "0x06baa6C3c8921763a8E57B6c80593A4B7349DCbd",
-        "0.8.0": "Fundable"
+        "0.8.0": "0x94ec5716b26C802cAD9886d8EB8eCb0EC81ECC43"
       }
     }
   },
   "testnet": {
     "Test Game": {
       "Tournament": {
-        "0.8.0": "0xe56B0Bf39208baC345C322873a07B09876a1bD1d"
+        "0.8.0": "0xFcd1648DBCB320aC4D1fa430EF78Ad8Ca2392571"
       },
       "Escrow": {
-        "0.8.0": "0xA434ED29933Ceb1261E58270F3e7F48696bbe339"
+        "0.8.0": "0x0CB8E7B89bCEE26e7713bDeA25a6888725Ad924F"
       }
     }
   }
