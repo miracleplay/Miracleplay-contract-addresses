@@ -59,6 +59,14 @@
         "0.7.1": "0x06baa6C3c8921763a8E57B6c80593A4B7349DCbd",
         "0.8.0": "0x94ec5716b26C802cAD9886d8EB8eCb0EC81ECC43"
       }
+    },
+    "MiracleHoop": {
+      "Tournament": {
+        "0.8.0": "0x6659b1C3D8f03d6A4BF962f8731AB06d2733eFF3"
+      },
+      "Escrow": {
+        "0.8.0": "0xd9331E76Dc7ca0045F7C08fA0fC89492916D4D4f"
+      }
     }
   },
   "testnet": {
