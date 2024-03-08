@@ -64,4 +64,4 @@
 > * DualRewardStaking v1.3 tMPT to tMLGE `0xc5437804b0691a29f6463DD4af4E0526D7Bbb644`
 > 
 > ### Miracle Pass
-> * MiraclePass v1.0 `0xd0c1295f11b7ACBb6097886af71Fe08592a66ab4`
+> * MiraclePass v1.0 `0xFb5A908c09c14eB96C7319b0f55D1cF3CEf85E24`
