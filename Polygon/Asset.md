@@ -43,6 +43,10 @@
 > * MPT APR 0.0%
 > * MLGE APR 100.0%
 
+> ### Miracle Pass
+> * MiraclePass v1.0 `0xFb5A908c09c14eB96C7319b0f55D1cF3CEf85E24`
+
+
 # Testnet
 > ### Asset
 > * tMPT `0x7BF295e993D2E6E670210F05AE3Ff081aC6BE104`

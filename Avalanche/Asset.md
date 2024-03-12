@@ -35,6 +35,6 @@
 > #### Dual Reward Staking v1.3.1 MPT to MLGE `0x19337585d1DEFe8De9A955b0090aeaC5A498E3B6`
 > * MPT APR 0.0%
 > * MLGE APR 100.0%
-> * > 
+
 > ### Miracle Pass
 > * MiraclePass v1.0 `0x50cDd652235E874bB6e325a5B284bF515c61D217`
