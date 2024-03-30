@@ -9,6 +9,14 @@
         "0.8.1": "0x95B5d35104DD6225A5d7Dffe6c3a10049ae03ed5",
         "0.8.2": "0x75B6E8174c7CbB7bc166B6DfC3aed4D75943aea4"
       }
+    },
+    "Dota2": {
+      "Tournament": {
+        "0.8.2": "0xCdD7dE778B8b61D5779532A20093abdf697F1322"
+      },
+      "Escrow": {
+        "0.8.2": "0xA44B4d092fB43198FFDB97BD7c33781EeE04F047"
+      }
     }
   },
   "testnet": {
