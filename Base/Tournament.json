@@ -1,53 +1,5 @@
 {
   "mainnet": {
-    "TapTap": {
-      "Tournament": {
-        "0.8.1": ""
-      },
-      "Escrow": {
-        "0.8.1": ""
-      }
-    },
-    "MiracleGolf": {
-      "Tournament": {
-        "0.8.1": ""
-      },
-      "Escrow": {
-        "0.8.1": ""
-      }
-    },
-    "BattleTank": {
-      "Tournament": {
-        "0.8.1": ""
-      },
-      "Escrow": {
-        "0.8.1": ""
-      }
-    },
-    "MiracleBingo": {
-      "Tournament": {
-        "0.8.1": ""
-      },
-      "Escrow": {
-        "0.8.1": ""
-      }
-    },
-    "MiracleSlide": {
-      "Tournament": {
-        "0.8.1": ""
-      },
-      "Escrow": {
-        "0.8.1": ""
-      }
-    },
-    "BubbleShooter": {
-      "Tournament": {
-        "0.8.1": ""
-      },
-      "Escrow": {
-        "0.8.1": ""
-      }
-    },
     "MiracleHoop": {
       "Tournament": {
         "0.8.1": "0x615f8b9F06029504829F6d228c5c1A6eF5938570",
@@ -56,14 +8,6 @@
       "Escrow": {
         "0.8.1": "0x95B5d35104DD6225A5d7Dffe6c3a10049ae03ed5",
         "0.8.2": "0x75B6E8174c7CbB7bc166B6DfC3aed4D75943aea4"
-      }
-    },
-    "Dota": {
-      "Tournament": {
-        "0.8.1": ""
-      },
-      "Escrow": {
-        "0.8.1": ""
       }
     }
   },
