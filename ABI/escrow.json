@@ -5,17 +5,32 @@
     "inputs": [
       {
         "type": "address",
-        "name": "adminAddr",
-        "internalType": "address"
-      },
-      {
-        "type": "address",
         "name": "_royaltyAddrDev",
         "internalType": "address"
       },
       {
         "type": "address",
         "name": "_royaltyAddrFlp",
+        "internalType": "address"
+      },
+      {
+        "type": "address[]",
+        "name": "_stakingContractAddresses",
+        "internalType": "address[]"
+      },
+      {
+        "type": "address",
+        "name": "_assetMasterAddr",
+        "internalType": "address"
+      },
+      {
+        "type": "address",
+        "name": "_miracletournament",
+        "internalType": "address"
+      },
+      {
+        "type": "address",
+        "name": "_miraclePass",
         "internalType": "address"
       },
       {
@@ -42,6 +57,26 @@
         "name": "newURI",
         "indexed": false,
         "internalType": "string"
+      }
+    ],
+    "outputs": [],
+    "anonymous": false
+  },
+  {
+    "type": "event",
+    "name": "EscrowCreated",
+    "inputs": [
+      {
+        "type": "uint256",
+        "name": "tournamentId",
+        "indexed": false,
+        "internalType": "uint256"
+      },
+      {
+        "type": "address",
+        "name": "organizer",
+        "indexed": false,
+        "internalType": "address"
       }
     ],
     "outputs": [],
@@ -96,6 +131,46 @@
         "name": "tournamentId",
         "indexed": false,
         "internalType": "uint256"
+      }
+    ],
+    "outputs": [],
+    "anonymous": false
+  },
+  {
+    "type": "event",
+    "name": "KickPlayer",
+    "inputs": [
+      {
+        "type": "uint256",
+        "name": "tournamentId",
+        "indexed": false,
+        "internalType": "uint256"
+      },
+      {
+        "type": "address",
+        "name": "user",
+        "indexed": false,
+        "internalType": "address"
+      }
+    ],
+    "outputs": [],
+    "anonymous": false
+  },
+  {
+    "type": "event",
+    "name": "Registration",
+    "inputs": [
+      {
+        "type": "uint256",
+        "name": "tournamentId",
+        "indexed": false,
+        "internalType": "uint256"
+      },
+      {
+        "type": "address",
+        "name": "user",
+        "indexed": false,
+        "internalType": "address"
       }
     ],
     "outputs": [],
@@ -202,46 +277,6 @@
         "name": "tournamentId",
         "indexed": false,
         "internalType": "uint256"
-      }
-    ],
-    "outputs": [],
-    "anonymous": false
-  },
-  {
-    "type": "event",
-    "name": "TournamentEscrowCreated",
-    "inputs": [
-      {
-        "type": "uint256",
-        "name": "tournamentId",
-        "indexed": false,
-        "internalType": "uint256"
-      },
-      {
-        "type": "address",
-        "name": "organizer",
-        "indexed": false,
-        "internalType": "address"
-      }
-    ],
-    "outputs": [],
-    "anonymous": false
-  },
-  {
-    "type": "event",
-    "name": "TournamentRegistration",
-    "inputs": [
-      {
-        "type": "uint256",
-        "name": "tournamentId",
-        "indexed": false,
-        "internalType": "uint256"
-      },
-      {
-        "type": "address",
-        "name": "user",
-        "indexed": false,
-        "internalType": "address"
       }
     ],
     "outputs": [],
@@ -469,12 +504,25 @@
   },
   {
     "type": "function",
+    "name": "connectMiraclePass",
+    "inputs": [
+      {
+        "type": "address",
+        "name": "_miraclePassAddr",
+        "internalType": "address"
+      }
+    ],
+    "outputs": [],
+    "stateMutability": "nonpayable"
+  },
+  {
+    "type": "function",
     "name": "connectTournament",
     "inputs": [
       {
         "type": "address",
         "name": "_miracletournament",
-        "internalType": "address payable"
+        "internalType": "address"
       }
     ],
     "outputs": [],
@@ -498,9 +546,9 @@
     "name": "createTournamentEscrow",
     "inputs": [
       {
-        "type": "uint256",
-        "name": "_tournamentId",
-        "internalType": "uint256"
+        "type": "uint256[]",
+        "name": "_tournamentInfo",
+        "internalType": "uint256[]"
       },
       {
         "type": "bool",
@@ -508,24 +556,14 @@
         "internalType": "bool"
       },
       {
-        "type": "address",
-        "name": "_prizeToken",
-        "internalType": "address"
+        "type": "address[]",
+        "name": "_prizeFeeToken",
+        "internalType": "address[]"
       },
       {
-        "type": "address",
-        "name": "_feeToken",
-        "internalType": "address"
-      },
-      {
-        "type": "uint256",
-        "name": "_prizeAmount",
-        "internalType": "uint256"
-      },
-      {
-        "type": "uint256",
-        "name": "_joinFee",
-        "internalType": "uint256"
+        "type": "uint256[]",
+        "name": "_prizeFeeAmount",
+        "internalType": "uint256[]"
       },
       {
         "type": "uint256[]",
@@ -931,6 +969,24 @@
   },
   {
     "type": "function",
+    "name": "kickPlayer",
+    "inputs": [
+      {
+        "type": "uint256",
+        "name": "_tournamentId",
+        "internalType": "uint256"
+      },
+      {
+        "type": "address",
+        "name": "_player",
+        "internalType": "address"
+      }
+    ],
+    "outputs": [],
+    "stateMutability": "nonpayable"
+  },
+  {
+    "type": "function",
     "name": "minFundingRate",
     "inputs": [],
     "outputs": [
@@ -938,6 +994,19 @@
         "type": "uint256",
         "name": "",
         "internalType": "uint256"
+      }
+    ],
+    "stateMutability": "view"
+  },
+  {
+    "type": "function",
+    "name": "miraclePass",
+    "inputs": [],
+    "outputs": [
+      {
+        "type": "address",
+        "name": "",
+        "internalType": "contract iMiraclePass"
       }
     ],
     "stateMutability": "view"
@@ -1174,6 +1243,30 @@
   },
   {
     "type": "function",
+    "name": "tierValify",
+    "inputs": [
+      {
+        "type": "uint256",
+        "name": "_gameTier",
+        "internalType": "uint256"
+      },
+      {
+        "type": "address",
+        "name": "user",
+        "internalType": "address"
+      }
+    ],
+    "outputs": [
+      {
+        "type": "bool",
+        "name": "",
+        "internalType": "bool"
+      }
+    ],
+    "stateMutability": "view"
+  },
+  {
+    "type": "function",
     "name": "tournamentMapping",
     "inputs": [
       {
@@ -1192,6 +1285,11 @@
         "type": "bool",
         "name": "isFunding",
         "internalType": "bool"
+      },
+      {
+        "type": "uint256",
+        "name": "tier",
+        "internalType": "uint256"
       },
       {
         "type": "address",
