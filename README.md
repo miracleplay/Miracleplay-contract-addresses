@@ -1,35 +1,14 @@
-# Miracleplay-contract-addresses
-> ## Polygon
-> ### Asset and Staking
-> [Polygon assets Link](Polygon/Asset.md)
-> ### Token and Staking Status
-> [Token and Staking Status Link](Polygon/status.html)
-> ### Tournament
-> [Tournaments Link](Polygon/Tournament.json)
-
-
-> ## Avalanche
-> ### Asset and Staking
-> [Avalanche assets Link](Avalanche/Asset.md)
-> ### Tournament
-> [Example tournaments Link](Avalanche/Tournament.md)
-
-> ## Common
-> ### Address
-> [Common addresses Link](Common/Address.md)
-> ### Royalty
-> [Common royalty Link](Common/Royalty.md)
-
-
 # Update history
 
 > ### Tournament
 >* 0.7.2 - Mint MPV and BPT
 >* 0.8.0 - Fundable Tournament and Optimization
+>* 0.8.2 - Optimization
 
 > ### Escrow
 >* 0.7.2 - Optimization
 >* 0.8.0 - Fundable Escrow and Optimization
+>* 0.8.2 - Optimization
 
 > ### NFT Staking
 > Staking the MPN to receive a reward. 
