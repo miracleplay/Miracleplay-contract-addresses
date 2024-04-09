@@ -17,6 +17,14 @@
       "Escrow": {
         "0.8.2": "0xA44B4d092fB43198FFDB97BD7c33781EeE04F047"
       }
+    },
+    "Valorant": {
+      "Tournament": {
+        "0.8.2": "0xd2e7B334DEf3ced6C8097f3Ff41bF9EA4F1382B8"
+      },
+      "Escrow": {
+        "0.8.2": "0xeB0137E0147DDDDa44c6c152CC39DFDdb94d6F6E"
+      }
     }
   },
   "testnet": {
