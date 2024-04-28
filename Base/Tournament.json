@@ -25,6 +25,38 @@
       "Escrow": {
         "0.8.2": "0xeB0137E0147DDDDa44c6c152CC39DFDdb94d6F6E"
       }
+    },
+    "COD:WZ": {
+      "Tournament": {
+        "0.8.3": ""
+      },
+      "Escrow": {
+        "0.8.3": ""
+      }
+    },
+    "CS2": {
+      "Tournament": {
+        "0.8.3": ""
+      },
+      "Escrow": {
+        "0.8.3": ""
+      }
+    },
+    "BattleGround": {
+      "Tournament": {
+        "0.8.3": ""
+      },
+      "Escrow": {
+        "0.8.3": ""
+      }
+    },
+    "TestGame": {
+      "Tournament": {
+        "0.8.3": "0x2BEBDD34f11f2f503b5ea80E5dB0a18647a80F58"
+      },
+      "Escrow": {
+        "0.8.3": "0x9c829A5B0B665B34DB4Cc441205dd6919621DcDA"
+      }
     }
   },
   "testnet": {

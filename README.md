@@ -4,11 +4,13 @@
 >* 0.7.2 - Mint MPV and BPT
 >* 0.8.0 - Fundable Tournament and Optimization
 >* 0.8.2 - Optimization
+>* 0.8.3 - Add referees and sponsors
 
 > ### Escrow
 >* 0.7.2 - Optimization
 >* 0.8.0 - Fundable Escrow and Optimization
 >* 0.8.2 - Optimization
+>* 0.8.3 - Add referees and sponsors
 
 > ### NFT Staking
 > Staking the MPN to receive a reward. 
