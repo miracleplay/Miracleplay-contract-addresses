@@ -1,0 +1,12 @@
+{
+  "mainnet": {
+    "TestGame": {
+      "Tournament": {
+        "0.8.3": "0x507bF7c11dDD9938dAC9D0dbAe8889728Bf50866"
+      },
+      "Escrow": {
+        "0.8.3": "0xf367204e17DC531623E3bFa1d2267213F11F5F26"
+      }
+    }
+  }
+}

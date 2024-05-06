@@ -3,61 +3,89 @@
     "MiracleHoop": {
       "Tournament": {
         "0.8.1": "0x615f8b9F06029504829F6d228c5c1A6eF5938570",
-        "0.8.2": "0x02a742ab83FcFA937Ed01f31D7a68f85dd05e3CF"
+        "0.8.2": "0x02a742ab83FcFA937Ed01f31D7a68f85dd05e3CF",
+        "0.8.3": "0xd9fC56C8b6Ad0576a2d2d607AC40c4630eDaB950"
       },
       "Escrow": {
         "0.8.1": "0x95B5d35104DD6225A5d7Dffe6c3a10049ae03ed5",
-        "0.8.2": "0x75B6E8174c7CbB7bc166B6DfC3aed4D75943aea4"
+        "0.8.2": "0x75B6E8174c7CbB7bc166B6DfC3aed4D75943aea4",
+        "0.8.3": "0x5c859894cFB4044dA76ac59420065f14524E7D3E"
       }
     },
     "Dota2": {
       "Tournament": {
-        "0.8.2": "0xCdD7dE778B8b61D5779532A20093abdf697F1322"
+        "0.8.2": "0xCdD7dE778B8b61D5779532A20093abdf697F1322",
+        "0.8.3": "0x086A1e33F65808Ab97dbC536418CA5384b4675ae"
       },
       "Escrow": {
-        "0.8.2": "0xA44B4d092fB43198FFDB97BD7c33781EeE04F047"
+        "0.8.2": "0xA44B4d092fB43198FFDB97BD7c33781EeE04F047",
+        "0.8.3": "0x161C5781b403952cc55A9FC45363A1156cA31173"
       }
     },
     "Valorant": {
       "Tournament": {
-        "0.8.2": "0xd2e7B334DEf3ced6C8097f3Ff41bF9EA4F1382B8"
+        "0.8.2": "0xd2e7B334DEf3ced6C8097f3Ff41bF9EA4F1382B8",
+        "0.8.3": "0xd8d9DD2E4402955807e2b9EF54EbB25EA92CDb57"
       },
       "Escrow": {
-        "0.8.2": "0xeB0137E0147DDDDa44c6c152CC39DFDdb94d6F6E"
+        "0.8.2": "0xeB0137E0147DDDDa44c6c152CC39DFDdb94d6F6E",
+        "0.8.3": "0xa3fF85710cd6f0b2cf009645C5bc11BBf46c1E2A"
       }
     },
     "COD:WZ": {
       "Tournament": {
-        "0.8.3": ""
+        "0.8.3": "0xD7a637d7B76EaBa52E819769f3219C2648Fbe45F"
       },
       "Escrow": {
-        "0.8.3": ""
+        "0.8.3": "0x4475FE0948B2d5A6fECe810B2435D8f9d42237cE"
       }
     },
-    "CS2": {
+    "CounterStrike2": {
       "Tournament": {
-        "0.8.3": ""
+        "0.8.3": "0x8025d4CC3d5901decc32d3e29877944E4e2600c4"
       },
       "Escrow": {
-        "0.8.3": ""
+        "0.8.3": "0x46c2D6D770438D678Fb2975792F7a004a56049a1"
       }
     },
     "BattleGround": {
       "Tournament": {
-        "0.8.3": ""
+        "0.8.3": "0x75387265Bc851BeF467b3842E605e300873c6C68"
       },
       "Escrow": {
-        "0.8.3": ""
+        "0.8.3": "0xC0451E50a736B47E283Ee49E837a32739CE9654f"
+      }
+    },
+    "OverWatch2": {
+      "Tournament": {
+        "0.8.3": "0x4a6b951f004580b26b07beDA9b88656A1b5Ffc67"
+      },
+      "Escrow": {
+        "0.8.3": "0xbd0C810BD71B617360BCa63A30461Bc7a88c56c1"
+      }
+    },
+    "StarCraft2": {
+      "Tournament": {
+        "0.8.3": "0x782a181b5e73a91395eC9ad024d3856054f044a8"
+      },
+      "Escrow": {
+        "0.8.3": "0x8dEa971AA6DbbDB6cf30ea88DfbDAB738C1ba03a"
+      }
+    },
+    "LeagueOfLegends": {
+      "Tournament": {
+        "0.8.3": "0xc3d21a7661Bc57D9b6F457e90127085b51e1865D"
+      },
+      "Escrow": {
+        "0.8.3": "0xeE87817F1be33F02812104D09a07BFD9eF000933"
       }
     },
     "TestGame": {
       "Tournament": {
-        "0.8.3": "0x2BEBDD34f11f2f503b5ea80E5dB0a18647a80F58",
-        "0.8.3a": "0x064568dEbD89D37f9Ddc1Cb666f49a2A85811191"
+        "0.8.3": "0x064568dEbD89D37f9Ddc1Cb666f49a2A85811191"
       },
       "Escrow": {
-        "0.8.3": "0x9c829A5B0B665B34DB4Cc441205dd6919621DcDA",
-        "0.8.3a": "0xe3025E48393f5BF08210d1Ab9eF293b10D4E9A29"
+        "0.8.3": "0xe3025E48393f5BF08210d1Ab9eF293b10D4E9A29"
       }
     }
   },
