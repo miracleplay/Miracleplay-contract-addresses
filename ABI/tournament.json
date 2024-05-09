@@ -5,11 +5,6 @@
     "inputs": [
       {
         "type": "address",
-        "name": "adminAddr",
-        "internalType": "address"
-      },
-      {
-        "type": "address",
         "name": "_VoteToken",
         "internalType": "address"
       },
@@ -206,6 +201,19 @@
   },
   {
     "type": "function",
+    "name": "ESCROW_ROLE",
+    "inputs": [],
+    "outputs": [
+      {
+        "type": "bytes32",
+        "name": "",
+        "internalType": "bytes32"
+      }
+    ],
+    "stateMutability": "view"
+  },
+  {
+    "type": "function",
     "name": "EscrowAddr",
     "inputs": [],
     "outputs": [
@@ -213,6 +221,19 @@
         "type": "address",
         "name": "",
         "internalType": "address payable"
+      }
+    ],
+    "stateMutability": "view"
+  },
+  {
+    "type": "function",
+    "name": "FACTORY_ROLE",
+    "inputs": [],
+    "outputs": [
+      {
+        "type": "bytes32",
+        "name": "",
+        "internalType": "bytes32"
       }
     ],
     "stateMutability": "view"
@@ -300,6 +321,11 @@
       {
         "type": "bool",
         "name": "_isFunding",
+        "internalType": "bool"
+      },
+      {
+        "type": "bool",
+        "name": "_isSponsorTournament",
         "internalType": "bool"
       },
       {
@@ -697,6 +723,42 @@
   },
   {
     "type": "function",
+    "name": "kickPlayer",
+    "inputs": [
+      {
+        "type": "uint256",
+        "name": "_tournamentId",
+        "internalType": "uint256"
+      },
+      {
+        "type": "address",
+        "name": "_player",
+        "internalType": "address"
+      }
+    ],
+    "outputs": [],
+    "stateMutability": "nonpayable"
+  },
+  {
+    "type": "function",
+    "name": "kickPlayerBatch",
+    "inputs": [
+      {
+        "type": "uint256",
+        "name": "_tournamentId",
+        "internalType": "uint256"
+      },
+      {
+        "type": "address[]",
+        "name": "_players",
+        "internalType": "address[]"
+      }
+    ],
+    "outputs": [],
+    "stateMutability": "nonpayable"
+  },
+  {
+    "type": "function",
     "name": "minTournamentRate",
     "inputs": [],
     "outputs": [
@@ -775,7 +837,7 @@
       }
     ],
     "outputs": [],
-    "stateMutability": "payable"
+    "stateMutability": "nonpayable"
   },
   {
     "type": "function",
@@ -815,12 +877,38 @@
   },
   {
     "type": "function",
+    "name": "setBattlePoint",
+    "inputs": [
+      {
+        "type": "address",
+        "name": "_newBattlePoint",
+        "internalType": "contract IMintableERC20"
+      }
+    ],
+    "outputs": [],
+    "stateMutability": "nonpayable"
+  },
+  {
+    "type": "function",
     "name": "setContractURI",
     "inputs": [
       {
         "type": "string",
         "name": "_uri",
         "internalType": "string"
+      }
+    ],
+    "outputs": [],
+    "stateMutability": "nonpayable"
+  },
+  {
+    "type": "function",
+    "name": "setVoteToken",
+    "inputs": [
+      {
+        "type": "address",
+        "name": "_newVoteToken",
+        "internalType": "contract IMintableERC20"
       }
     ],
     "outputs": [],
@@ -845,6 +933,11 @@
       {
         "type": "bool",
         "name": "isFunding",
+        "internalType": "bool"
+      },
+      {
+        "type": "bool",
+        "name": "isSponsorTournament",
         "internalType": "bool"
       },
       {
