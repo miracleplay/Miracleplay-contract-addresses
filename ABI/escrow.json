@@ -337,6 +337,19 @@
   },
   {
     "type": "function",
+    "name": "FACTORY_ROLE",
+    "inputs": [],
+    "outputs": [
+      {
+        "type": "bytes32",
+        "name": "",
+        "internalType": "bytes32"
+      }
+    ],
+    "stateMutability": "view"
+  },
+  {
+    "type": "function",
     "name": "RoyaltyPrizeDev",
     "inputs": [],
     "outputs": [
@@ -363,7 +376,7 @@
   },
   {
     "type": "function",
-    "name": "RoyaltyregfeeDev",
+    "name": "RoyaltyPrizeReferee",
     "inputs": [],
     "outputs": [
       {
@@ -376,13 +389,52 @@
   },
   {
     "type": "function",
-    "name": "RoyaltyregfeeFlp",
+    "name": "RoyaltyRegfeeDev",
     "inputs": [],
     "outputs": [
       {
         "type": "uint256",
         "name": "",
         "internalType": "uint256"
+      }
+    ],
+    "stateMutability": "view"
+  },
+  {
+    "type": "function",
+    "name": "RoyaltyRegfeeFlp",
+    "inputs": [],
+    "outputs": [
+      {
+        "type": "uint256",
+        "name": "",
+        "internalType": "uint256"
+      }
+    ],
+    "stateMutability": "view"
+  },
+  {
+    "type": "function",
+    "name": "RoyaltyRegfeeReferee",
+    "inputs": [],
+    "outputs": [
+      {
+        "type": "uint256",
+        "name": "",
+        "internalType": "uint256"
+      }
+    ],
+    "stateMutability": "view"
+  },
+  {
+    "type": "function",
+    "name": "TOURNAMENT_ROLE",
+    "inputs": [],
+    "outputs": [
+      {
+        "type": "bytes32",
+        "name": "",
+        "internalType": "bytes32"
       }
     ],
     "stateMutability": "view"
@@ -589,6 +641,11 @@
         "type": "uint256",
         "name": "_playerLimit",
         "internalType": "uint256"
+      },
+      {
+        "type": "address[]",
+        "name": "_referees",
+        "internalType": "address[]"
       }
     ],
     "outputs": [],
@@ -803,6 +860,25 @@
   },
   {
     "type": "function",
+    "name": "getReferees",
+    "inputs": [
+      {
+        "type": "uint256",
+        "name": "_tournamentId",
+        "internalType": "uint256"
+      }
+    ],
+    "outputs": [
+      {
+        "type": "address[]",
+        "name": "referees",
+        "internalType": "address[]"
+      }
+    ],
+    "stateMutability": "view"
+  },
+  {
+    "type": "function",
     "name": "getRoleAdmin",
     "inputs": [
       {
@@ -962,6 +1038,25 @@
       {
         "type": "bool",
         "name": "",
+        "internalType": "bool"
+      }
+    ],
+    "stateMutability": "view"
+  },
+  {
+    "type": "function",
+    "name": "isSponsor",
+    "inputs": [
+      {
+        "type": "address",
+        "name": "user",
+        "internalType": "address"
+      }
+    ],
+    "outputs": [
+      {
+        "type": "bool",
+        "name": "isSponsorRole",
         "internalType": "bool"
       }
     ],
@@ -1172,6 +1267,19 @@
   },
   {
     "type": "function",
+    "name": "setPrizeRoyaltyRefRate",
+    "inputs": [
+      {
+        "type": "uint256",
+        "name": "_royaltyRate",
+        "internalType": "uint256"
+      }
+    ],
+    "outputs": [],
+    "stateMutability": "nonpayable"
+  },
+  {
+    "type": "function",
     "name": "setRegfeeRoyaltyDevRate",
     "inputs": [
       {
@@ -1186,6 +1294,19 @@
   {
     "type": "function",
     "name": "setRegfeeRoyaltyFlpRate",
+    "inputs": [
+      {
+        "type": "uint256",
+        "name": "_royaltyRate",
+        "internalType": "uint256"
+      }
+    ],
+    "outputs": [],
+    "stateMutability": "nonpayable"
+  },
+  {
+    "type": "function",
+    "name": "setRegfeeRoyaltyRefRate",
     "inputs": [
       {
         "type": "uint256",
@@ -1284,6 +1405,11 @@
       {
         "type": "bool",
         "name": "isFunding",
+        "internalType": "bool"
+      },
+      {
+        "type": "bool",
+        "name": "isSponsored",
         "internalType": "bool"
       },
       {
