@@ -121,6 +121,18 @@
         "0.8.2": "0x6AB2E827A014F7C4Db2d19621d487629eCF21819",
         "0.8.3": "0x142c096AF7502D7CE9c5CA5412D8ED6466C6c450"
       }
+    },
+    "BrickGalaxy": {
+      "Tournament": {
+        "0.8.1": "0x62CC9eF83B9c1e8B6b5694950c3Bf1E4329521E3",
+        "0.8.2": "0x3d54fE0d4301DBCab10504f3884ca7C567721ef1",
+        "0.8.3": "0xc5503416156f989E7b2aED1a2Cc5e67F2e3E57f8"
+      },
+      "Escrow": {
+        "0.8.1": "0x427FbB640f9D2d4b5bE6fAa397AC342c160CcA31",
+        "0.8.2": "0x6AB2E827A014F7C4Db2d19621d487629eCF21819",
+        "0.8.3": "0x2035944dA8880528E50863E996cdCfaf16d9F1d0"
+      }
     }
   },
   "testnet": {
