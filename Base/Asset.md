@@ -61,3 +61,4 @@
 > 
 > ### Miracle Pass
 > * MiraclePass v1.0 `0x24B4CF9063561e6Ba19C54B5300366DfbB119657`
+> * MiraclePenaltyPass v1.0 `0x`

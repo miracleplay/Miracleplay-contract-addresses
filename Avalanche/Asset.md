@@ -38,3 +38,4 @@
 
 > ### Miracle Pass
 > * MiraclePass v1.0 `0x50cDd652235E874bB6e325a5B284bF515c61D217`
+> * MiraclePenaltyPass v1.0 `0x`

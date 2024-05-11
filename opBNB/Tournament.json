@@ -1,5 +1,13 @@
 {
   "mainnet": {
+    "BrickGalaxy": {
+      "Tournament": {
+        "0.8.3": "0x31B4De69b3a74e784A16281515ec664Fe4cD850d"
+      },
+      "Escrow": {
+        "0.8.3": "0x1fca7e7c9BcE37eCb538Cef7937dc30e9C1650be"
+      }
+    },
     "TestGame": {
       "Tournament": {
         "0.8.3": "0x507bF7c11dDD9938dAC9D0dbAe8889728Bf50866"
