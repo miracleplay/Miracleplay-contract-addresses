@@ -45,7 +45,7 @@
 
 > ### Miracle Pass
 > * MiraclePass v1.0 `0xFb5A908c09c14eB96C7319b0f55D1cF3CEf85E24`
-> * MiraclePenaltyPass v1.0 `0x`
+> * MiraclePenaltyPass v1.0 `0x8a3060088733ae5039D71D3ff6faDCAF7ec2EB49`
 
 
 # Testnet
