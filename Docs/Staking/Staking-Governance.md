@@ -16,14 +16,14 @@
 
 ## 함수(Read)
 > ### function getVotePower(address user) public view returns (uint256 totalAmount):
-> #### 설명: 주어진 사용자의 투표 권한을 반환합니다.
+> #### 설명: 사용자의 투표 권한파워(스테이킹 중인 NFT수량)를 리턴합니다.
 > #### 파라미터
 > * user: address - 투표 권한을 조회할 사용자의 주소
 > #### 리턴 파라미터:
 > * totalAmount: uint256 - 사용자의 투표 권한
 
 > ### function getVoterDetails(address voter) public view returns (uint256 option, uint256 power)
-> #### 설명: 주어진 사용자의 투표 옵션 및 투표 권한을 반환합니다.
+> #### 설명: 사용자가 투표한 옵션 및 투표파워를 리턴합니다.
 > #### 파라미터
 > * voter: address - 조회할 사용자의 주소
 > #### 리턴 파라미터
@@ -31,20 +31,20 @@
 > * power: uint256 - 사용자의 투표 권한_
 
 > ### function getVoteCountForOption(uint256 option) public view returns (uint256)
-> #### 설명: 특정 투표 옵션에 대한 투표 수를 반환합니다.
+> #### 설명: 특정 투표 옵션에 대한 투표 파워를 리턴합니다.
 > #### 파라미터
 > * option: uint256 - 조회할 투표 옵션(0~15)
 > #### 리턴 파라미터
 > * voteCount: uint256 - 특정 투표 옵션에 대한 투표 수
 
 > ### function getAllVoteCounts() public view returns (uint256[] memory)
-> #### 설명: 모든 투표 옵션에 대한 투표 수를 반환합니다.
+> #### 설명: 모든 투표 옵션에 대한 투표 파워를 리턴합니다.
 > #### 리턴 파라미터
 > * totals: uint256[] - 각 투표 옵션에 대한 투표 수를 포함하는 배열
 
 ## 이벤트
 > ### event VoteCasted(uint256 indexed round, address indexed voter, uint256 option, uint256 power)
-> #### 설명: 사용자가 투표를 제출했을 때 발생하는 이벤트입니다. 해당 라운드, 투표자, 투표 옵션 및 투표 권한이 기록됩니다.
+> #### 설명: 사용자가 투표를 제출했을 때 발생하는 이벤트입니다. 해당 라운드, 투표자, 투표 옵션 및 투표 파워가 기록됩니다.
 > #### 파라미터
 > * round: uint256 - 해당 라운드
 > * voter: address - 투표자의 주소
@@ -52,7 +52,7 @@
 > * power: uint256 - 투표 권한
 
 > ### event VoteRetracted(uint256 indexed round, address indexed voter, uint256 option, uint256 power)
-> #### 설명: 사용자가 투표를 취소했을 때 발생하는 이벤트입니다. 해당 라운드, 투표자, 투표 옵션 및 취소된 투표 권한이 기록됩니다.
+> #### 설명: 사용자가 투표를 취소했을 때 발생하는 이벤트입니다. 해당 라운드, 투표자, 투표 옵션 및 취소된 투표 파워가 기록됩니다.
 > #### 파라미터:
 > * round: uint256 - 해당 라운드
 > * voter: address - 투표자의 주소
@@ -60,7 +60,7 @@
 > * power: uint256 - 취소된 투표 권한
 
 > #### event RoundEnded(uint256 round, uint256[] voteTotals)
-> #### 설명: 라운드가 종료되었을 때 발생하는 이벤트로, 해당 라운드 및 각 투표 옵션에 대한 총 투표 수가 기록됩니다.
+> #### 설명: 라운드가 종료되었을 때 발생하는 이벤트로, 해당 라운드 및 각 투표 옵션에 대한 총 투표 파워가 기록됩니다.
 > #### 파라미터:
 > * round: uint256 - 종료된 라운드
 > * voteTotals: uint256[] - 각 투표 옵션에 대한 총 투표 수를 포함하는 배열
