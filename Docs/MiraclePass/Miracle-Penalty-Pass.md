@@ -14,6 +14,10 @@
 > * 설명: 사용자가 페널티 패스를 구매하고 소유합니다.
 > * _tokenAddress: address - 구매에 사용할 토큰의 주소
 
+> #### function revokePenaltyPass(address user) public 
+> * 설명 : 사용자의 패널티 패스를 취소합니다.
+> * user: address - 페널티 패스를 취소할 사용자의 주소
+
 > #### function hasValidPenaltyPass(address user) public view returns (bool)
 > * 설명: 사용자가 유효한 페널티 패스를 가지고 있는지 확인합니다.
 > * user: address - 확인할 사용자의 주소
