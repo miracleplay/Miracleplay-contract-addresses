@@ -14,6 +14,11 @@
 > ### function endRound() external onlyRole(DEFAULT_ADMIN_ROLE) 
 > #### 설명: 현재 라운드의 투표를 종료하고 결과를 발표합니다.
 
+> ### function uploadFinalResult(uint256 stakeRewardRate) external onlyRole(DEFAULT_ADMIN_ROLE)
+> #### 설명: 최종 결과를 업로드하고, 스테이크 보상률을 설정합니다.
+> #### 파라미터:
+> * stakeRewardRate: uint256 - 설정할 스테이크 보상률
+
 ## 함수(Read)
 > ### function getVotePower(address user) public view returns (uint256 totalAmount):
 > #### 설명: 사용자의 투표 권한파워(스테이킹 중인 NFT수량)를 리턴합니다.
@@ -41,6 +46,18 @@
 > #### 설명: 모든 투표 옵션에 대한 투표 파워를 리턴합니다.
 > #### 리턴 파라미터
 > * totals: uint256[] - 각 투표 옵션에 대한 투표 수를 포함하는 배열
+
+> ### function getCurrentRound() public view returns (uint256 round)
+> #### 설명: 현재 라운드를 조회합니다.
+> #### 파라미터 : 없음
+> #### 리턴 파라미터
+> * round: uint256 - 현재 라운드 번호
+
+> ### function getStakeRewardRate() public view returns (uint256 stakeRewardRate)
+> #### 설명: 현재 설정된 스테이크 보상률을 조회합니다.
+> #### 파라미터 : 없음
+> #### 리턴 파라미터
+> * stakeRewardRate: uint256 - 현재 스테이크 보상률
 
 ## 이벤트
 > ### event VoteCasted(uint256 indexed round, address indexed voter, uint256 option, uint256 power)
