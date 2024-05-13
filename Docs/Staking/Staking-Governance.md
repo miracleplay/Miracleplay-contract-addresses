@@ -76,7 +76,7 @@
 > * option: uint256 - 취소된 투표 옵션
 > * power: uint256 - 취소된 투표 권한
 
-> #### event RoundEnded(uint256 round, uint256[] voteTotals)
+> ### event RoundEnded(uint256 round, uint256[] voteTotals)
 > #### 설명: 라운드가 종료되었을 때 발생하는 이벤트로, 해당 라운드 및 각 투표 옵션에 대한 총 투표 파워가 기록됩니다.
 > #### 파라미터:
 > * round: uint256 - 종료된 라운드
