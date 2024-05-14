@@ -54,7 +54,13 @@
 > * Miracleplay NFT Staking Section1 v2.0 `0x0635629ACf17D81B72f3A8Dc8b396F787476C110`
 > * Miracleplay NFT Staking Section2 v2.0 `0x8F7Df309b8A91179d40C7490B9E2d41aEe625545`
 > * Miracleplay NFT Staking Section3 v2.0 `0xbc57edc5EafE1D7AC70c2623A4cdc1388BA33bD9`
-> 
+
+> * Miracleplay NFT Staking Section1 v2.0.1G `0x88cB33Cd3480E1f9AED28F1d787bAFA90368f5D3`
+> * Miracleplay NFT Staking Section2 v2.0.1G `0xb523Fe9Bdb90D01aFd94cc0D2a3B216F32F4cB2f`
+> * Miracleplay NFT Staking Section3 v2.0.1G `0xB64B71A9Ee3b3117c303663451Aea4bFc259DA4e`
+
+> * Miracleplay NFT Staking Governance v1.0 `0x1390C8a917451234d4B7e18F68207054d3477103`
+
 > ### Dual Reward ERC-20 Staking
 > * DualRewardStaking v1.3 tMPT to tMPV `0x25Bb2D92EAfC54BAAfdB39722e95F2620592CDC5`
 > * DualRewardStaking v1.3 tMPT to tMLGE `0xd67f33aFcbd10Ae07F76281df19329d95C3b1C6E`
