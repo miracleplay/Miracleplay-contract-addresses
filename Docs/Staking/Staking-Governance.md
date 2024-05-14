@@ -33,7 +33,7 @@
 > * voter: address - 조회할 사용자의 주소
 > #### 리턴 파라미터
 > * option: uint256 _- 사용자의 투표 옵션
-> * power: uint256 - 사용자의 투표 권한_
+> * power: uint256 - 사용자의 투표 파워
 
 > ### function getVoteCountForOption(uint256 option) public view returns (uint256)
 > #### 설명: 특정 투표 옵션에 대한 투표 파워를 리턴합니다.
