@@ -10,19 +10,22 @@
 
 > ### ERC-1155 NFT Staking
 > #### Miracleplay NFT Staking Section1 v2.0 
-> * Contract address : `0x9fe56DD1D36Ccba8836d8dbe188E9d3857ff442B`
+> * v2.0 Contract address[Locked] : ~~`0x9fe56DD1D36Ccba8836d8dbe188E9d3857ff442B`~~
+> * v2.1 Contract address : `0xaEe35831e645A02702E26F758DA99170B0588d1B`
 > * Pool start timestamp : 1676440800 `2023 February 15th Wednesday AM 6:00:00 UTC`
 > * Maximum NFT amount : 10,000 MPN
 > * Maximum staking amount : 1,000,000,000 MPT
 > * DAO fee : 5 %
 > #### Miracleplay NFT Staking Section2 v2.0
-> * Contract address : `0x90A30669c4bf03c13C487eF93246CB209e800A55`
+> * v2.0 Contract address[Locked] : ~~`0x90A30669c4bf03c13C487eF93246CB209e800A55`~~
+> * v2.1 Contract address : `0xdBC86474329A56f0Bd184e1B8d61c2d69F06AE2b`
 > * Pool start timestamp : 1682920800 `2023 May 1st Monday AM 6:00:00 UTC`
 > * Maximum NFT amount : 10,000 MPN
 > * Maximum staking amount : 1,000,000,000 MPT
 > * DAO fee : 15 %
 > #### Miracleplay NFT Staking Section3 v2.0
-> * Contract address : `0x6E175DAa15E30B5Af765F9812B1e16ce102730a3`
+> * v2.0 Contract address[Locked] : ~~`0x6E175DAa15E30B5Af765F9812B1e16ce102730a3`~~
+> * v2.1 Contract address : `0xFAf92fdF4BD27753AC9eAF535796e0ee0D73dFc6`
 > * Pool start timestamp : 1706162400 `2024 January 25일 Thursday AM 6:00:00 UTC`
 > * Maximum NFT amount : 10,000 MPN
 > * Maximum staking amount : 1,000,000,000 MPT
