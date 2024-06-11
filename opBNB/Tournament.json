@@ -8,6 +8,38 @@
         "0.8.3": "0x1fca7e7c9BcE37eCb538Cef7937dc30e9C1650be"
       }
     },
+    "Dota2": {
+      "Tournament": {
+        "0.8.3": "0xFf122051aD90f327DE2537B71E49CD6AC23A39aC"
+      },
+      "Escrow": {
+        "0.8.3": "0x291965573621f8254D849987E8b30dC584d49e3E"
+      }
+    },
+    "BattleGround": {
+      "Tournament": {
+        "0.8.3": "0xdBfE7da102dFcbb18162951144605c197527F50b"
+      },
+      "Escrow": {
+        "0.8.3": "0x3c08d109547E3Ab54f82B03d9BcdE9Cc7D310220"
+      }
+    },
+    "MiracleBingo": {
+      "Tournament": {
+        "0.8.3": "0xCdD7dE778B8b61D5779532A20093abdf697F1322"
+      },
+      "Escrow": {
+        "0.8.3": "0xA44B4d092fB43198FFDB97BD7c33781EeE04F047"
+      }
+    },
+    "MiracleSlide": {
+      "Tournament": {
+        "0.8.3": "0x6BA3eEfE91df2f108A9578095C2a3cB6AA6622BA"
+      },
+      "Escrow": {
+        "0.8.3": "0x19337585d1DEFe8De9A955b0090aeaC5A498E3B6"
+      }
+    },
     "TestGame": {
       "Tournament": {
         "0.8.3": "0x507bF7c11dDD9938dAC9D0dbAe8889728Bf50866"
