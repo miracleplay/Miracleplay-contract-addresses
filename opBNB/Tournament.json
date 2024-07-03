@@ -48,6 +48,14 @@
         "0.8.3": "0x0bb1983F89bc50eCb70063d542b77aA5ab7a93Ce"
       }
     },
+    "StormStriker": {
+      "Tournament": {
+        "0.8.3": "0x064568dEbD89D37f9Ddc1Cb666f49a2A85811191"
+      },
+      "Escrow": {
+        "0.8.3": "0xe3025E48393f5BF08210d1Ab9eF293b10D4E9A29"
+      }
+    },
     "TestGame": {
       "Tournament": {
         "0.8.3": "0x507bF7c11dDD9938dAC9D0dbAe8889728Bf50866"
