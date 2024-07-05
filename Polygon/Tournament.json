@@ -133,6 +133,14 @@
         "0.8.2": "0x6AB2E827A014F7C4Db2d19621d487629eCF21819",
         "0.8.3": "0x2035944dA8880528E50863E996cdCfaf16d9F1d0"
       }
+    },
+    "MiracleJours": {
+      "Tournament": {
+        "0.8.3": "0x062282f4388003c993902a54B44Ded6aD8eD9eA7"
+      },
+      "Escrow": {
+        "0.8.3": "0xDcD798913b393bFF606D2a1fBF763BD73F018337"
+      }
     }
   },
   "testnet": {
