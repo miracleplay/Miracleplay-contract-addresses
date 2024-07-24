@@ -141,6 +141,14 @@
       "Escrow": {
         "0.8.3": "0xDcD798913b393bFF606D2a1fBF763BD73F018337"
       }
+    },
+    "HomeRunGirl": {
+      "Tournament": {
+        "0.8.3": "0xfa715F8217158Cf83F5792E99bdBae754D5bc649"
+      },
+      "Escrow": {
+        "0.8.3": "0x6eBcCcd4C05dF1f612CDeDD5e6dCBB464827CA1C"
+      }
     }
   },
   "testnet": {

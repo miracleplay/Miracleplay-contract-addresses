@@ -56,6 +56,14 @@
         "0.8.3": "0xe3025E48393f5BF08210d1Ab9eF293b10D4E9A29"
       }
     },
+    "HomeRunGirl": {
+      "Tournament": {
+        "0.8.3": "0x4d90D34188544888fb8Dfb1144C668D59A833e96"
+      },
+      "Escrow": {
+        "0.8.3": "0xCa5799c80Aa723647bE6051A1Ccd19c8658319e6"
+      }
+    },
     "TestGame": {
       "Tournament": {
         "0.8.3": "0x507bF7c11dDD9938dAC9D0dbAe8889728Bf50866"
