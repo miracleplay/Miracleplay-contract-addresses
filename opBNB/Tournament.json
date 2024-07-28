@@ -64,6 +64,14 @@
         "0.8.3": "0xCa5799c80Aa723647bE6051A1Ccd19c8658319e6"
       }
     },
+    "Villains": {
+      "Tournament": {
+        "0.8.3": "0xD72Ea8958591FB0b50C72f67EbCD8D5233227073"
+      },
+      "Escrow": {
+        "0.8.3": "0x078B67B7DA93466960375abF8de70139Fd791A71"
+      }
+    },
     "TestGame": {
       "Tournament": {
         "0.8.3": "0x507bF7c11dDD9938dAC9D0dbAe8889728Bf50866"
