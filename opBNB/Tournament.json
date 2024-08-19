@@ -72,6 +72,14 @@
         "0.8.3": "0x078B67B7DA93466960375abF8de70139Fd791A71"
       }
     },
+    "TozUniverse": {
+      "Tournament": {
+        "0.8.3": "0x5196B2f2712031c47835E9EE4DE55Ea93732dD73"
+      },
+      "Escrow": {
+        "0.8.3": "0xA2C17595102F4f2c2abB989A2652E3e2403bE529"
+      }
+    },
     "TestGame": {
       "Tournament": {
         "0.8.3": "0x507bF7c11dDD9938dAC9D0dbAe8889728Bf50866"
