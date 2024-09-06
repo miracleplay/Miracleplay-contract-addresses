@@ -1,7 +1,7 @@
 {
   "mainnet": {
     "StoreEscrow": {
-        "1.0.0": "0xd9A7c8C86Cec24Ecb007c32BDDC6Bb68D178f0Dc"
+        "1.0.1": "0xC12A541235687D9B2ed1f4df323322410Da0B0c5"
     }
   },
   "testnet": {
