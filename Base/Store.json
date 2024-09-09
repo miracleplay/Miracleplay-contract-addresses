@@ -6,7 +6,7 @@
   },
   "testnet": {
     "StoreEscrow": {
-        "1.0.0": "0x5D0B99D9728030a98E293B98F82e8E75b7dD199C"
+        "1.0.1": "0xfbFf84f6d36a31D90Bbbf69bb4fEEA114eAe81bd"
     }
   }
 }
