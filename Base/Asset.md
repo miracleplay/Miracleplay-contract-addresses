@@ -53,6 +53,10 @@
 > * AssetManager `0x39D61e5d13ccBB7cCB6d13e49f492620291f359A`
 > * AccountManager `0xCCC0cA674Fa008F77eb7B759e6FEf3B63396AC99`
 
+> ### Miracleplay Migration
+> * Miracleplay NFT Migration v1.0 `0x9385a8C686B8C94F333Dd3F4d932EDFb5a7992c5`
+> * Miracleplay Node Sales v1.0 `0x1eadb107CbD08C25A2A8c12EDcf6e4771799a357`
+
 > ### ERC-1155 NFT Staking
 > * Miracleplay NFT Staking Section1 v2.0 `0x0635629ACf17D81B72f3A8Dc8b396F787476C110`
 > * Miracleplay NFT Staking Section2 v2.0 `0x8F7Df309b8A91179d40C7490B9E2d41aEe625545`
