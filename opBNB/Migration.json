@@ -1,0 +1,10 @@
+{
+  "mainnet": {
+    "EditionMigration": {
+        "1.0.0": "0xcdD9f36a3Deaee9823Ffc6d9c38171549cF1C40e"
+    },
+    "MiracleNodeSales": {
+        "1.0.0": "0x2b0c52b7170090149333f90d96b55569acf0636e"
+    }
+  }
+}
