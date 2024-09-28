@@ -1,0 +1,28 @@
+{
+  "mainnet": {
+    "BrickGalaxy": {
+      "Tournament": {
+        "0.8.3": "0x9fe56DD1D36Ccba8836d8dbe188E9d3857ff442B"
+      },
+      "Escrow": {
+        "0.8.3": "0x90A30669c4bf03c13C487eF93246CB209e800A55"
+      }
+    },
+    "HomeRunGirl": {
+      "Tournament": {
+        "0.8.3": "0xC7196744E1Ad287E177c458a424DaAf8B6A13e14"
+      },
+      "Escrow": {
+        "0.8.3": "0x507bF7c11dDD9938dAC9D0dbAe8889728Bf50866"
+      }
+    },
+    "Villains": {
+      "Tournament": {
+        "0.8.3": "0xcC7cF69362B93C3c21a3F150AE7f851eCF08B6A0"
+      },
+      "Escrow": {
+        "0.8.3": "0xc8EFDe625a8602CbD814DEfe71749248dE13D225"
+      }
+    }
+  }
+}
