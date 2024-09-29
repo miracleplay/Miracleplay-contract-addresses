@@ -10,7 +10,7 @@
 
 > ### ERC-1155 NFT Staking
 > #### Miracleplay NFT Staking Section1
-> > * v2.1 Contract address : 0x912049d2eF7235f2689f01e8374236C10ab054CF
+> * v2.1 Contract address : 0x912049d2eF7235f2689f01e8374236C10ab054CF
 > * Pool start timestamp : 1676440800 `2023 February 15th Wednesday AM 6:00:00 UTC`
 > * Maximum NFT amount : 10,000 MPN
 > * Maximum staking amount : 1,000,000,000 MPT
