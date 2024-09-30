@@ -6,7 +6,7 @@
 > * MPV `0xcEB0f9304F165d4DfedCE829e3A983759F4AeA98`
 > * BPT `0xDB8583078BFDac7d6B9CA922B79ad2cCE3D50bFb`
 > * AssetManager `0x7f6178330fDAF2f1653D03B7E6FE5Ad2468cA492`
-> * AccountManager `0x6182Ea76c971903Fbd69417948e81b1963fcAE4c`
+> * AccountManager `0x1fca7e7c9bce37ecb538cef7937dc30e9c1650be`
 
 > ### ERC-1155 NFT Staking
 > #### Miracleplay NFT Staking Section1
