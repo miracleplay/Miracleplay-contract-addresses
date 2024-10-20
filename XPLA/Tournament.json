@@ -1,0 +1,12 @@
+{
+  "mainnet": {
+    "Villains": {
+      "Tournament": {
+        "0.8.3": "0x6E175DAa15E30B5Af765F9812B1e16ce102730a3"
+      },
+      "Escrow": {
+        "0.8.3": "0xC7196744E1Ad287E177c458a424DaAf8B6A13e14"
+      }
+    }
+  }
+}
