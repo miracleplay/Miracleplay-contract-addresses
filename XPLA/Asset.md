@@ -37,5 +37,5 @@
 > * MLGE APR 100.0%
 
 > ### Miracle Pass
-> * MiraclePass v1.0 `0xd52D354b44987e75a3016795A9D849aAC16c64c3`
-> * MiraclePenaltyPass v1.0 `0x28bf750d07523a9812d957030d209081aFd6aeA8`
+> * MiraclePass v1.0 `0x6cE0375966f19D180D4A95594413AaE76da0afC4`
+> * MiraclePenaltyPass v1.0 `0xfB5a8AbFfd46478E671d175AF2f22bE13d7dd7F2`
