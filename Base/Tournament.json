@@ -96,6 +96,14 @@
         "0.8.3": "0xE4be78e6bE27075cD126adDf6c70C140d01C3617"
       }
     },
+    "BubbleShooter": {
+      "Tournament": {
+        "0.8.3": "0xFe11C7310Cf86c88F0F304797Af8b539854AFA36"
+      },
+      "Escrow": {
+        "0.8.3": "0x4eDE1C9835dD21d2E507A4C5ceeE6D78D5409Fad"
+      }
+    },
     "TestGame": {
       "Tournament": {
         "0.8.3": "0x064568dEbD89D37f9Ddc1Cb666f49a2A85811191"
