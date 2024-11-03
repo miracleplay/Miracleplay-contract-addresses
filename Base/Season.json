@@ -1,0 +1,12 @@
+{
+  "mainnet": {
+    "SuperMiracleSeasonEscrow": "0xC214084D46bAf2e03B2878c0d96A0dfFa609C498",
+    "LadderMiracleSeasonEscrow": "0xEC8cb788162182F0f14dEe1cD3f5c1dB71535a5f",
+    "MiracleSeasonEventLogger": "0xfA97a1A4C1197bdEE97eFdd228b8660E4a5B851C"
+  },
+  "testnet": {
+    "SuperMiracleSeasonEscrow": "0xC214084D46bAf2e03B2878c0d96A0dfFa609C498",
+    "LadderMiracleSeasonEscrow": "0xEC8cb788162182F0f14dEe1cD3f5c1dB71535a5f",
+    "MiracleSeasonEventLogger": "0xfA97a1A4C1197bdEE97eFdd228b8660E4a5B851C"
+  }
+}
