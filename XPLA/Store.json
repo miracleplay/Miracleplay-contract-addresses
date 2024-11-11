@@ -1,7 +1,10 @@
 {
   "mainnet": {
     "StoreEscrow": {
-        "1.0.1": "0xf367204e17DC531623E3bFa1d2267213F11F5F26"
+        "1.0.1": "0xC12A541235687D9B2ed1f4df323322410Da0B0c5"
+    },
+    "MiracleTokenShop": {
+        "1.0.1": "0xE221345CedAc53353a2D27Cbc413663333E05D60"
     }
   }
 }
