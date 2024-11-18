@@ -10,6 +10,9 @@
     },
     "MiracleSeasonEventLogger": {
         "1.1.0": "0xfA97a1A4C1197bdEE97eFdd228b8660E4a5B851C"
+    },
+    "MiracleLadderSeasonEventLogger": {
+        "1.1.0": "0x83E8EA58c8248719928912E9267160828C308214"
     }
   }
 }
