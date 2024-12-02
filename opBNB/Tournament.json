@@ -80,6 +80,14 @@
         "0.8.3": "0xA2C17595102F4f2c2abB989A2652E3e2403bE529"
       }
     },
+    "CapsuleMachinePop": {
+      "Tournament": {
+        "0.8.3": "0xB09f8859ec838A0DfBc04A61D0541AAe0f95f589"
+      },
+      "Escrow": {
+        "0.8.3": "0x5fEdD631841b4c06e47F01b1B4Cd32c357F32a6B"
+      }
+    },
     "TestGame": {
       "Tournament": {
         "0.8.3": "0x507bF7c11dDD9938dAC9D0dbAe8889728Bf50866"

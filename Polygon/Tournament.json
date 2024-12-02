@@ -149,6 +149,14 @@
       "Escrow": {
         "0.8.3": "0x6eBcCcd4C05dF1f612CDeDD5e6dCBB464827CA1C"
       }
+    },
+    "CapsuleMachinePop": {
+      "Tournament": {
+        "0.8.3": "0x9d7302e216CE94789A1E9D7f10973AF23f46e23B"
+      },
+      "Escrow": {
+        "0.8.3": "0xa95636Ed6B9a599d760a6AFf92824E8232Cf038D"
+      }
     }
   },
   "testnet": {
