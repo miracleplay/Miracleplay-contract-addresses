@@ -31,6 +31,14 @@
       "Escrow": {
         "0.8.3": "0xc894b57B832Df7bcEc0327EDA145e9dF49ff6e8D"
       }
+    },
+    "RO:MonsterWorld": {
+      "Tournament": {
+        "0.8.3": "0xdBfE7da102dFcbb18162951144605c197527F50b"
+      },
+      "Escrow": {
+        "0.8.3": "0x3c08d109547e3ab54f82b03d9bcde9cc7d310220"
+      }
     }
   }
 }
