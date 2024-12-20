@@ -39,6 +39,14 @@
       "Escrow": {
         "0.8.3": "0x3c08d109547e3ab54f82b03d9bcde9cc7d310220"
       }
+    },
+    "ChampionStrike": {
+      "Tournament": {
+        "0.8.3": "0xA44B4d092fB43198FFDB97BD7c33781EeE04F047"
+      },
+      "Escrow": {
+        "0.8.3": "0xbeCbe63242028f8c1Fb4769DC114157EDaac886b"
+      }
     }
   }
 }
