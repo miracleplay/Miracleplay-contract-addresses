@@ -104,6 +104,22 @@
         "0.8.3": "0x4eDE1C9835dD21d2E507A4C5ceeE6D78D5409Fad"
       }
     },
+    "CapsuleMachinePop": {
+      "Tournament": {
+        "0.8.3": "0xfb8d641453AE9Cc8559a582BDC89a532b0A4Af95"
+      },
+      "Escrow": {
+        "0.8.3": "0x63B264D5200AD20A0901D5F1bA5BF2bEf7410CB5"
+      }
+    },
+    "TiktrixGames": {
+      "Tournament": {
+        "0.8.3": "0xaAd8DD46Fcf2C120D0e15cf6104b44E6A2096E2a"
+      },
+      "Escrow": {
+        "0.8.3": "0x00660BFd51D867Ea2CEe2aF3f1b1BE1e8F71a181"
+      }
+    },
     "TestGame": {
       "Tournament": {
         "0.8.3": "0x064568dEbD89D37f9Ddc1Cb666f49a2A85811191"
