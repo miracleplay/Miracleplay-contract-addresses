@@ -120,6 +120,14 @@
         "0.8.3": "0x00660BFd51D867Ea2CEe2aF3f1b1BE1e8F71a181"
       }
     },
+    "RO:MonsterWorld": {
+      "Tournament": {
+        "0.8.3": "0x24e5Eba2213F30B3a80c011Ac4cf2E76E16b61F3"
+      },
+      "Escrow": {
+        "0.8.3": "0x83c609984a95Fa24a0336598b27Dfa4167BE31A9"
+      }
+    },
     "TestGame": {
       "Tournament": {
         "0.8.3": "0x064568dEbD89D37f9Ddc1Cb666f49a2A85811191"
@@ -129,7 +137,6 @@
       }
     }
   },
-
   "testnet": {
     "Test Game": {
       "Tournament": {
