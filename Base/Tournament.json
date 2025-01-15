@@ -128,6 +128,14 @@
         "0.8.3": "0x83c609984a95Fa24a0336598b27Dfa4167BE31A9"
       }
     },
+    "ChampionStrike": {
+      "Tournament": {
+        "0.8.3": "0x40515Fbb02Eaf5dE9c76F0C0f95947D3Ded14768"
+      },
+      "Escrow": {
+        "0.8.3": "0x851379635F8a63645415615BCF6026E4586d5488"
+      }
+    },
     "TestGame": {
       "Tournament": {
         "0.8.3": "0x064568dEbD89D37f9Ddc1Cb666f49a2A85811191"
