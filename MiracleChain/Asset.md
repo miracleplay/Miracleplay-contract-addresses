@@ -8,7 +8,7 @@
 > * RPC `https://rpc-miracle-chain-dqfxgxhidy.t.conduit.xyz`
 > * Explorer `https://explorer-miracle-chain-dqfxgxhidy.t.conduit.xyz`
 
->### Asset
+>### L3 Asset
 > * tWrapped xMPT `[Not Deployed]`
 > * MiracleNodeRewardManager 1.1.1 `[Not Deployed]`
 
@@ -33,6 +33,6 @@
 > * MiracleEditionMigration 1.0.1 `0xf367204e17DC531623E3bFa1d2267213F11F5F26`
 > * MiracleNodeRewardManager 1.1.1 `0x5798D9a6963918A2F5205914EE93E79c248cCd44`
 
->### L2 Asset (Base sepolia)
-> * Miracle Node Key `0xDd7706B9b3A344e9E7E6a692A34d1E3e4e7A72b3`
-> * MiracleEditionMigration 1.0.1 `0x5e05592f5a53ca58510c2A9dca4A19c18065E598`
+>### L2 Asset (Arbitrum sepolia)
+> * Miracle Node Key `0x392c08A9ee78899a31549f7a4c298931c0B36656`
+> * MiracleEditionMigration 1.0.1 `0xb6072199045360659A77102CC3d7c5ecD5F925fA`
