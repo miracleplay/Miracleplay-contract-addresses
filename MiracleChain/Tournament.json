@@ -1,0 +1,7 @@
+{
+  "mainnet": {
+  },
+  "testnet": {
+    "Test Game": "0x6aC49c84a46B4A4591070674E6E6003383167340"
+    }
+}
