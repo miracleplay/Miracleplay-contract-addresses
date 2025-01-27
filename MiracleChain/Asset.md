@@ -9,12 +9,13 @@
 > * Explorer `https://explorer-miracle-chain-dqfxgxhidy.t.conduit.xyz`
 
 >### L3 Asset
-> * tWrapped xMPT `[Not Deployed]`
-> * MiracleNodeRewardManager 1.1.1 `[Not Deployed]`
+> * https://thirdweb.com/92278/[contract address]
+> * Wrapped xMPT `0x02308809451507ced7a6c678dea9bbc74013e48d`
+> * MiracleNodeRewardManager 1.1.4 `0xb6072199045360659a77102cc3d7c5ecd5f925fa`
 
 >### L2 Asset (Arbitrum one)
-> * Miracle Node Key `[Not Deployed]`
-> * MiracleEditionMigration 1.0.1 `[Not Deployed]`
+> * Miracle Node Key `0x7eAFa10F4c653998a656543A64be0394D760FFD3`
+> * MiracleEditionMigration 1.1.1 `0x7a259fe6c8bb3ad18daca8d42b0599d91561607c`
 
 # Testnet
 >### Chain Info
@@ -30,9 +31,7 @@
 > * https://thirdweb.com/25971/[contract address]
 > * xMPT `[Not Deployed]
 > * tWrapped xMPT `0xDD7594F7B8EAccedA3A9fa3183dD8B860A2B960c`
-> * Miracle Node Key `0x04a4d8C1cCbE695773e2ba6a2f07B0128cc208B8`
-> * MiracleEditionMigration 1.0.1 `0xf367204e17DC531623E3bFa1d2267213F11F5F26`
-> * MiracleNodeRewardManager 1.1.3 `0xA19e648f811332AaC69d534A11742C38AA189912`
+> * MiracleNodeRewardManager 1.1.4 `0xFAf92fdF4BD27753AC9eAF535796e0ee0D73dFc6`
 
 >### L2 Asset (Arbitrum sepolia)
 > * Miracle Node Key `0x392c08A9ee78899a31549f7a4c298931c0B36656`
