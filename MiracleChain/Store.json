@@ -1,0 +1,18 @@
+{
+  "mainnet": {
+    "StoreEscrow": {
+        "1.0.1": "Not deployed yet"
+    },
+    "MiracleTokenShop": {
+        "1.0.1": "Not deployed yet"
+    }
+  },
+  "testnet": {
+    "StoreEscrow": {
+        "1.0.1": "Not deployed yet"
+    },
+    "MiracleTokenShop": {
+        "1.0.1": "Not deployed yet"
+    }
+  }
+}

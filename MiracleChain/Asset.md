@@ -36,3 +36,4 @@
 >### L2 Asset (Arbitrum sepolia)
 > * Miracle Node Key `0x392c08A9ee78899a31549f7a4c298931c0B36656`
 > * MiracleEditionMigration 1.1.1 `0x9fe56DD1D36Ccba8836d8dbe188E9d3857ff442B`
+> * Miracle Upgradable NFT 0.3.0 `0xc8EFDe625a8602CbD814DEfe71749248dE13D225`
