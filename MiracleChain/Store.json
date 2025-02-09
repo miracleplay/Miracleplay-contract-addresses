@@ -1,18 +1,18 @@
 {
   "mainnet": {
     "StoreEscrow": {
-        "1.0.1": "Not deployed yet"
+        "1.0.1": "0xc6b9b412868810acb69701df82030ee1f56b1962"
     },
     "MiracleTokenShop": {
-        "1.0.1": "Not deployed yet"
+        "1.0.1": "Not Deployed"
     }
   },
   "testnet": {
     "StoreEscrow": {
-        "1.0.1": "Not deployed yet"
+        "1.0.1": "0x6ba3eefe91df2f108a9578095c2a3cb6aa6622ba"
     },
     "MiracleTokenShop": {
-        "1.0.1": "Not deployed yet"
+        "1.0.1": "Not Deployed"
     }
   }
 }

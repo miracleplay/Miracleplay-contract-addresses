@@ -16,6 +16,8 @@
 >### L2 Asset (Arbitrum one)
 > * Miracle Node Key `0x7eAFa10F4c653998a656543A64be0394D760FFD3`
 > * MiracleEditionMigration 1.1.1 `0x7a259fe6c8bb3ad18daca8d42b0599d91561607c`
+> * Miracle Upgradable NFT 0.5.0 (AirGraprix)`Not Deployed`
+> * MiracleStoreEscrow 1.0.1 `0xC6B9B412868810AcB69701DF82030eE1f56b1962`
 
 # Testnet
 >### Chain Info
@@ -32,8 +34,9 @@
 > * xMPT `[Not Deployed]
 > * tWrapped xMPT `0xDD7594F7B8EAccedA3A9fa3183dD8B860A2B960c`
 > * MiracleNodeRewardManager 1.1.4 `0xFAf92fdF4BD27753AC9eAF535796e0ee0D73dFc6`
+> * > * MiracleStoreEscrow 1.0.1 `0x6BA3eEfE91df2f108A9578095C2a3cB6AA6622BA`
 
 >### L2 Asset (Arbitrum sepolia)
 > * Miracle Node Key `0x392c08A9ee78899a31549f7a4c298931c0B36656`
 > * MiracleEditionMigration 1.1.1 `0x9fe56DD1D36Ccba8836d8dbe188E9d3857ff442B`
-> * Miracle Upgradable NFT 0.3.0 `0xc8EFDe625a8602CbD814DEfe71749248dE13D225`
+> * Miracle Upgradable NFT 0.5.0 (AirGraprix)`0x02a742ab83FcFA937Ed01f31D7a68f85dd05e3CF`
