@@ -14,7 +14,7 @@
 > * MiracleNodeRewardManager 1.1.4 `0xb6072199045360659a77102cc3d7c5ecd5f925fa`
 
 >### L2 Asset (Arbitrum one)
-> * Miracle Node Key `0x7eAFa10F4c653998a656543A64be0394D760FFD3`
+> * Miracle Node Key `0x0ca81E5167D5314b4c701220260b2191BefEF537`
 > * MiracleEditionMigration 1.1.1 `0x7a259fe6c8bb3ad18daca8d42b0599d91561607c`
 > * Miracle Upgradable NFT 0.5.0 (AirGraprix)`Not Deployed`
 > * MiracleStoreEscrow 1.0.1 `0xC6B9B412868810AcB69701DF82030eE1f56b1962`
