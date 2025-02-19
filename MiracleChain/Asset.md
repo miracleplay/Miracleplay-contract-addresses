@@ -5,8 +5,8 @@
 > * Settlement layer :Arbitrum one
 > * Data availability layer : Anytrust DA
 > * Native token : MPT (0xa4f63404b58C3efD9Db6D53352BD386fFa174e5A)
-> * RPC `https://explorer.miracleplay.io/`
-> * Explorer `https://test-explorer.miracleplay.io/`
+> * RPC `https://rpc.miracleplay.io`
+> * Explorer `https://explorer.miracleplay.io`
 
 >### L3 Asset
 > * https://thirdweb.com/92278/[contract address]
@@ -30,8 +30,8 @@
 > * Settlement layer :Arbitrum one
 > * Data availability layer : Anytrust DA
 > * Native token : MPT
-> * RPC `https://rpc-miracleplay-testnet-1cf6rdckhl.t.conduit.xyz`
-> * Explorer `https://explorer-miracleplay-testnet-1cf6rdckhl.t.conduit.xyz/`
+> * RPC `https://test-rpc.miracleplay.io`
+> * Explorer `https://test-explorer.miracleplay.io`
 
 >### L3 Asset
 > * https://thirdweb.com/25971/[contract address]
