@@ -55,6 +55,14 @@
       "Escrow": {
         "0.8.3": "0x291965573621f8254D849987E8b30dC584d49e3E"
       }
+    },
+    "BlackStigma": {
+      "Tournament": {
+        "0.8.3": "0xCD39ad065686D797534Bb2Cf3D69f88e332bFB58"
+      },
+      "Escrow": {
+        "0.8.3": "0xd9fC56C8b6Ad0576a2d2d607AC40c4630eDaB950"
+      }
     }
   }
 }
