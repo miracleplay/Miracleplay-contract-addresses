@@ -19,7 +19,7 @@
 
 >### L2 Asset (Arbitrum one)
 > * Miracle Node Key `0x0ca81E5167D5314b4c701220260b2191BefEF537`
-> * MiracleEditionMigration 1.1.1 `0x7a259fe6c8bb3ad18daca8d42b0599d91561607c`
+> * MiracleEditionMigration 1.2.0 `0xfD119785687408AcFC5dFE7D6058c4D4d174Ecf1`
 > * Miracle Upgradable NFT 0.5.0 (AirGraprix)`Not Deployed`
 > * Miracle Upgradable NFT 0.5.0 (Dev)`0x024823c6423d3f9A7B9dbD93317CE35d4A5e585d`
 
@@ -40,10 +40,12 @@
 > * tMPV `0xc448095ce28DC650c42bfA0B160B3d3FfF4e1826`
 > * tBPT `0x69A561712C6884cEdc1C250E4d550050ccBE69Ef`
 > * tUSDC `0x097859f38ed1a49e42ebb64568cdcc83ca934f8a`
+> * Miracle Node Key `0x8D22a834D6B8259A1202593956A0bD7348989768`
+> * MiracleEditionMigration 1.2.0 `0xE20DAAed77bA97EE33721352af0a7c1d1eD5F9AD`
 > * MiracleNodeRewardManager 1.1.4 `0xFAf92fdF4BD27753AC9eAF535796e0ee0D73dFc6`
 > * MiracleStoreEscrow 1.1.0 `0x8dea971aa6dbbdb6cf30ea88dfbdab738c1ba03a`
 
 >### L2 Asset (Arbitrum sepolia)
-> * Miracle Node Key `0x392c08A9ee78899a31549f7a4c298931c0B36656`
-> * MiracleEditionMigration 1.1.1 `0x9fe56DD1D36Ccba8836d8dbe188E9d3857ff442B`
 > * Miracle Upgradable NFT 0.5.0 (AirGraprix)`0x02a742ab83FcFA937Ed01f31D7a68f85dd05e3CF`
+> * Miracle Node Key `0x8D22a834D6B8259A1202593956A0bD7348989768`
+> * MiracleEditionMigration 1.2.0 `0xaFCD900a1AAd25024a803728542c634c6E7894eC`
