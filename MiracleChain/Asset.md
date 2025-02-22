@@ -15,7 +15,7 @@
 > * MPV `0xEfff9988050d733d61a18ca795c1254f6567C44A`
 > * BPT `0xA9881c1E0f51DFeB1f416d1B2542C2a51f095366`
 > * MiracleNodeRewardManager 1.1.4 `0xb6072199045360659a77102cc3d7c5ecd5f925fa`
-> * MiracleStoreEscrow 1.1.0 `0x29469809afbf5365f06279ad958f3b2af19c3466`
+> * MiracleStoreEscrow 1.2.2 `0xf367204e17DC531623E3bFa1d2267213F11F5F26`
 
 >### L2 Asset (Arbitrum one)
 > * Miracle Node Key `0x0ca81E5167D5314b4c701220260b2191BefEF537`
@@ -40,10 +40,8 @@
 > * tMPV `0xc448095ce28DC650c42bfA0B160B3d3FfF4e1826`
 > * tBPT `0x69A561712C6884cEdc1C250E4d550050ccBE69Ef`
 > * tUSDC `0x097859f38ed1a49e42ebb64568cdcc83ca934f8a`
-> * Miracle Node Key `0x8D22a834D6B8259A1202593956A0bD7348989768`
-> * MiracleEditionMigration 1.2.0 `0xE20DAAed77bA97EE33721352af0a7c1d1eD5F9AD`
 > * MiracleNodeRewardManager 1.1.4 `0xFAf92fdF4BD27753AC9eAF535796e0ee0D73dFc6`
-> * MiracleStoreEscrow 1.1.0 `0x8dea971aa6dbbdb6cf30ea88dfbdab738c1ba03a`
+> * MiracleStoreEscrow 1.2.2 `0x8494067BA8FA6621Dd2fCd9769c71eF50DE3567f`
 
 >### L2 Asset (Arbitrum sepolia)
 > * Miracle Upgradable NFT 0.5.0 (AirGraprix)`0x02a742ab83FcFA937Ed01f31D7a68f85dd05e3CF`
