@@ -5,6 +5,7 @@
     "Dota": "0x8c007763b23ecb7ea1f18d5a8bbc44c75caeecfa",
     "BlackStigma": "0xa37e2b83c5e3fa5739be7da64d68826b14168b5d",
     "AIGRANPRIX": "0x31B4De69b3a74e784A16281515ec664Fe4cD850d",
+    "ChampionStrike": "0x5798d9a6963918a2f5205914ee93e79c248ccd44",
     "Eventlogger": "0x794339603534Ec779d866Af21d6752a50bDCf4e1"
   },
   "testnet": {
@@ -13,6 +14,7 @@
     "Dota": "0x23d59f552cbb3ca6262a22d09e7e56e0087eb6e4",
     "BlackStigma": "0x1d0d2f0d3c9f21c98b068c7256cf87308dba1f94",
     "AIGRANPRIX": "0x9b5B2d8b7c27d2d4665fEb288dd0eFc2BA8a10A6",
+    "ChampionStrike": "0xE4be78e6bE27075cD126adDf6c70C140d01C3617",
     "Test Game": "0xb51e2f0F1D280805e9A169923565327CF8eAE49F",
     "Eventlogger": "0xB2c6a4513AB19A187c03C0fDaBa6Ce8015b10f3d"
     }
