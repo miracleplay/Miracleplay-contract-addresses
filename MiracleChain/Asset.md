@@ -17,6 +17,14 @@
 > * MiracleNodeRewardManager 1.1.4 `0xb6072199045360659a77102cc3d7c5ecd5f925fa`
 > * MiracleStoreEscrow 1.2.2 `0xf367204e17DC531623E3bFa1d2267213F11F5F26`
 
+> ### Dual Reward ERC-20 Token Staking
+> #### Dual Reward Staking v1.5.2 MPT to MPV `0xb93457F1069a974279dD0E8CAc5849b9841a3433`
+> * MPT APR 1.5%
+> * MPV APR 4.0%
+> #### Dual Reward Staking v1.5.2 MPT to MLGE `0xA4558d7b1F67EB06101a5d5a8118d09DDA25C173`
+> * MPT APR 0.0%
+> * MLGE APR 100.0%
+
 >### L2 Asset (Arbitrum one)
 > * Miracle Node Key `0x0ca81E5167D5314b4c701220260b2191BefEF537`
 > * MiracleEditionMigration 1.2.0 `0xfD119785687408AcFC5dFE7D6058c4D4d174Ecf1`
@@ -43,6 +51,14 @@
 > * MiracleNodeRewardManager 1.1.4 `0xFAf92fdF4BD27753AC9eAF535796e0ee0D73dFc6`
 > * MiracleStoreEscrow 1.2.2 `0x8494067BA8FA6621Dd2fCd9769c71eF50DE3567f`
 > * TokenBurnRace
+
+> ### Dual Reward ERC-20 Token Staking
+> #### Dual Reward Staking v1.5.2 MPT to MPV `0x1C7b175bA0aC4ca3c924Ae493122284c6A829468`
+> * MPT APR 1.5%
+> * MPV APR 4.0%
+> #### Dual Reward Staking v1.5.2 MPT to MLGE `0x86001Dd582FEAE1db4Eb684a93E27b3bc55450E1`
+> * MPT APR 0.0%
+> * MLGE APR 100.0%
 
 >### L2 Asset (Arbitrum sepolia)
 > * Miracle Upgradable NFT 0.5.0 (AirGraprix)`0x02a742ab83FcFA937Ed01f31D7a68f85dd05e3CF`
