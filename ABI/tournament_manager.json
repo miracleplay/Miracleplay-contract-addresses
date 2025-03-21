@@ -871,9 +871,9 @@
         "type": "uint256"
       },
       {
-        "internalType": "address[]",
-        "name": "_participants",
-        "type": "address[]"
+        "internalType": "uint256",
+        "name": "_participantsCount",
+        "type": "uint256"
       }
     ],
     "name": "participateInTournamentBatch",
@@ -907,9 +907,14 @@
         "type": "uint256"
       },
       {
-        "internalType": "address[]",
-        "name": "_participants",
-        "type": "address[]"
+        "internalType": "address",
+        "name": "_participant",
+        "type": "address"
+      },
+      {
+        "internalType": "uint256",
+        "name": "_participantsCount",
+        "type": "uint256"
       }
     ],
     "name": "removeParticipantBatch",
